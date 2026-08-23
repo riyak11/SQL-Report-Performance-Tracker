@@ -1,1 +1,26 @@
-
+analyst_id	analyst_name	department	experience_years	location
+A001	Isaac Bakshi	Operations	0.7	Bangalore
+A002	Anvi Konda	Compliance	2.2	Pune
+A003	Udant Dewan	Legal	1.2	Hyderabad
+A004	Harsh Chahal	Finance	0.7	Mumbai
+A005	Pahal Balay	Compliance	4.3	Pune
+A006	Ayushman Chander	Legal	2	Chennai
+A007	Tejas Kaul	Technology	2.2	Chennai
+A008	Yashasvi Bala	Sales	6.6	Pune
+A009	Rushil Saini	Risk	5.7	Bangalore
+A010	Thomas Sen	Sales	1.7	Bangalore
+A011	Arunima Ahuja	Operations	1.2	Pune
+A012	Nathaniel Sami	Human Resources	6.9	Chennai
+A013	Harini Mall	Sales	6.6	Hyderabad
+A014	Nachiket Kale	Legal	1.4	Hyderabad
+A015	Gayathri Chaudry	Operations	4.6	Chennai
+A016	George Rai	Human Resources	4.8	Pune
+A017	Gunbir Parmer	Finance	5.5	Bangalore
+A018	Hemangini Lalla	Operations	6.9	Pune
+A019	Caleb Sharaf	Technology	2.6	Bangalore
+A020	Jeet Radhakrishnan	Risk	3.3	Mumbai
+A021	Farhan Memon	Sales	5.8	Pune
+A022	Janaki Handa	Risk	4.5	Mumbai
+A023	Ekaraj Bath	Risk	4	Bangalore
+A024	Vedant Mann	Legal	2.1	Bangalore
+A025	Fariq Kaul	Finance	2.2	Pune
