@@ -1,0 +1,1201 @@
+issue_id,report_id,issue_date,issue_type,severity,source_system,assigned_analyst_id,resolution_hours,issue_status,root_cause
+DQI00001,RPT0091,2025-08-14,Delayed Data,Medium,Client Database,A008,104,Open,Data Entry
+DQI00002,RPT0027,2025-03-13,Duplicate Records,Medium,Data Warehouse,A019,64,Open,Mapping Issue
+DQI00003,RPT0081,2026-06-13,Delayed Data,Low,CRM,A014,94,Under Investigation,Source System
+DQI00004,RPT0031,2024-11-21,Duplicate Records,Low,Core Banking,A004,12,Resolved,Unknown
+DQI00005,RPT0084,2024-10-29,Missing Data,High,ERP,A002,32,Resolved,Source System
+DQI00006,RPT0098,2024-12-20,Duplicate Records,Medium,HR System,A002,49,Resolved,Data Entry
+DQI00007,RPT0068,2026-05-09,Delayed Data,Medium,Risk System,A025,37,Open,Unknown
+DQI00008,RPT0028,2026-02-03,Missing Data,Medium,ERP,A024,23,Resolved,Transformation Logic
+DQI00009,RPT0005,2025-04-13,Duplicate Records,Low,Client Database,A016,118,Resolved,Database Issue
+DQI00010,RPT0104,2026-05-23,Invalid Format,High,Data Warehouse,A002,112,Under Investigation,Database Issue
+DQI00011,RPT0107,2026-02-18,Delayed Data,Low,CRM,A008,108,Open,Source System
+DQI00012,RPT0113,2026-02-12,Incorrect Values,Critical,Data Warehouse,A017,73,Resolved,Mapping Issue
+DQI00013,RPT0015,2025-12-01,Missing Data,Medium,Data Warehouse,A024,30,Under Investigation,Transformation Logic
+DQI00014,RPT0067,2024-09-20,Invalid Format,Low,CRM,A020,8,Under Investigation,Transformation Logic
+DQI00015,RPT0080,2025-02-03,Incorrect Values,Medium,ERP,A003,15,Open,Database Issue
+DQI00016,RPT0070,2026-05-31,Invalid Format,Low,Client Database,A025,78,Resolved,Database Issue
+DQI00017,RPT0036,2026-06-16,Data Mismatch,Low,HR System,A015,83,Under Investigation,Transformation Logic
+DQI00018,RPT0102,2025-05-01,Missing Data,Medium,ERP,A015,30,Resolved,Unknown
+DQI00019,RPT0022,2024-12-13,Incorrect Values,Low,Core Banking,A012,52,Open,Data Entry
+DQI00020,RPT0113,2024-10-29,Null Values,Low,CRM,A001,64,Open,Transformation Logic
+DQI00021,RPT0065,2026-02-23,Incorrect Values,High,Client Database,A005,85,Resolved,Data Entry
+DQI00022,RPT0016,2025-02-28,Missing Data,Medium,Risk System,A017,87,Resolved,Unknown
+DQI00023,RPT0084,2025-05-23,Duplicate Records,Medium,HR System,A008,74,Under Investigation,Data Entry
+DQI00024,RPT0117,2025-06-23,Duplicate Records,Low,Client Database,A009,95,Open,Mapping Issue
+DQI00025,RPT0022,2025-09-22,Delayed Data,Medium,Core Banking,A017,99,Open,Unknown
+DQI00026,RPT0048,2024-09-27,Data Mismatch,Medium,Data Warehouse,A025,10,Open,Source System
+DQI00027,RPT0031,2026-01-27,Null Values,Low,ERP,A024,105,Resolved,Mapping Issue
+DQI00028,RPT0054,2025-04-09,Data Mismatch,High,HR System,A016,54,Resolved,Unknown
+DQI00029,RPT0028,2025-03-10,Invalid Format,High,Risk System,A008,53,Resolved,Source System
+DQI00030,RPT0056,2026-05-18,Missing Data,Medium,HR System,A003,93,Resolved,Database Issue
+DQI00031,RPT0004,2025-01-02,Invalid Format,Low,Client Database,A008,30,Open,Transformation Logic
+DQI00032,RPT0033,2024-09-13,Null Values,Medium,HR System,A002,26,Resolved,Mapping Issue
+DQI00033,RPT0002,2025-06-30,Missing Data,Medium,Risk System,A007,61,Open,Database Issue
+DQI00034,RPT0054,2026-06-14,Duplicate Records,Medium,CRM,A018,5,Under Investigation,Transformation Logic
+DQI00035,RPT0118,2025-08-06,Missing Data,High,Core Banking,A017,38,Resolved,Source System
+DQI00036,RPT0051,2025-10-25,Null Values,Medium,ERP,A009,14,Open,Unknown
+DQI00037,RPT0072,2026-03-24,Incorrect Values,Low,Core Banking,A016,57,Resolved,Transformation Logic
+DQI00038,RPT0042,2025-10-21,Null Values,Medium,CRM,A025,119,Open,Data Entry
+DQI00039,RPT0078,2025-03-02,Delayed Data,High,CRM,A011,86,Under Investigation,Transformation Logic
+DQI00040,RPT0082,2024-11-01,Data Mismatch,Medium,CRM,A005,81,Resolved,Mapping Issue
+DQI00041,RPT0005,2025-08-13,Invalid Format,Critical,Client Database,A012,95,Open,Database Issue
+DQI00042,RPT0109,2024-11-07,Delayed Data,High,ERP,A011,4,Under Investigation,Unknown
+DQI00043,RPT0073,2026-05-06,Delayed Data,Low,Client Database,A025,14,Open,Database Issue
+DQI00044,RPT0036,2026-04-28,Invalid Format,High,Core Banking,A014,35,Open,Unknown
+DQI00045,RPT0093,2024-12-06,Invalid Format,Medium,Client Database,A025,91,Resolved,Unknown
+DQI00046,RPT0005,2024-11-22,Incorrect Values,Medium,Core Banking,A009,25,Resolved,Unknown
+DQI00047,RPT0118,2024-08-29,Missing Data,Medium,Core Banking,A023,116,Under Investigation,Data Entry
+DQI00048,RPT0002,2024-10-06,Null Values,Medium,Client Database,A006,37,Resolved,Source System
+DQI00049,RPT0103,2026-05-26,Invalid Format,Medium,Core Banking,A020,65,Under Investigation,Database Issue
+DQI00050,RPT0004,2026-04-18,Missing Data,Medium,CRM,A008,120,Open,Unknown
+DQI00051,RPT0045,2025-02-08,Null Values,Low,HR System,A021,6,Under Investigation,Source System
+DQI00052,RPT0074,2024-11-29,Data Mismatch,Medium,CRM,A009,4,Open,Mapping Issue
+DQI00053,RPT0001,2025-01-20,Delayed Data,Medium,CRM,A001,34,Resolved,Data Entry
+DQI00054,RPT0053,2026-05-21,Incorrect Values,Low,Core Banking,A012,93,Open,Database Issue
+DQI00055,RPT0028,2025-06-27,Delayed Data,Medium,Core Banking,A024,103,Under Investigation,Mapping Issue
+DQI00056,RPT0003,2025-06-05,Incorrect Values,Medium,Core Banking,A018,54,Under Investigation,Database Issue
+DQI00057,RPT0055,2026-02-04,Incorrect Values,Low,ERP,A011,52,Open,Mapping Issue
+DQI00058,RPT0006,2025-12-22,Duplicate Records,Low,HR System,A016,69,Under Investigation,Data Entry
+DQI00059,RPT0015,2026-08-18,Missing Data,Medium,ERP,A022,66,Resolved,Mapping Issue
+DQI00060,RPT0048,2026-01-02,Invalid Format,Medium,CRM,A018,86,Under Investigation,Source System
+DQI00061,RPT0003,2024-10-24,Incorrect Values,Medium,Core Banking,A008,79,Resolved,Data Entry
+DQI00062,RPT0108,2025-11-15,Data Mismatch,High,Risk System,A003,113,Open,Data Entry
+DQI00063,RPT0036,2025-11-18,Data Mismatch,Low,Data Warehouse,A016,89,Under Investigation,Unknown
+DQI00064,RPT0099,2025-03-09,Duplicate Records,Medium,Risk System,A004,106,Under Investigation,Source System
+DQI00065,RPT0106,2026-08-02,Duplicate Records,Medium,ERP,A023,101,Resolved,Source System
+DQI00066,RPT0008,2026-05-13,Data Mismatch,Medium,ERP,A012,62,Open,Mapping Issue
+DQI00067,RPT0118,2024-10-17,Delayed Data,Low,Core Banking,A009,34,Open,Database Issue
+DQI00068,RPT0083,2024-09-05,Incorrect Values,Medium,Client Database,A020,99,Resolved,Data Entry
+DQI00069,RPT0070,2024-10-09,Missing Data,Medium,ERP,A006,87,Under Investigation,Source System
+DQI00070,RPT0102,2025-01-20,Null Values,High,ERP,A015,104,Under Investigation,Transformation Logic
+DQI00071,RPT0088,2026-07-21,Invalid Format,Low,Core Banking,A025,89,Open,Unknown
+DQI00072,RPT0100,2026-01-03,Invalid Format,Medium,Client Database,A015,22,Under Investigation,Unknown
+DQI00073,RPT0092,2025-07-30,Delayed Data,Low,Risk System,A009,13,Open,Database Issue
+DQI00074,RPT0003,2026-05-10,Delayed Data,High,CRM,A019,41,Under Investigation,Data Entry
+DQI00075,RPT0111,2024-11-28,Null Values,Medium,Client Database,A009,99,Open,Transformation Logic
+DQI00076,RPT0020,2024-10-30,Null Values,High,HR System,A024,76,Open,Database Issue
+DQI00077,RPT0064,2026-07-23,Null Values,Medium,Client Database,A001,66,Under Investigation,Mapping Issue
+DQI00078,RPT0086,2026-06-09,Data Mismatch,High,HR System,A022,52,Open,Mapping Issue
+DQI00079,RPT0061,2026-05-26,Null Values,High,ERP,A015,75,Under Investigation,Source System
+DQI00080,RPT0019,2026-05-10,Incorrect Values,Low,Core Banking,A004,111,Under Investigation,Source System
+DQI00081,RPT0055,2025-05-04,Data Mismatch,High,ERP,A018,17,Under Investigation,Mapping Issue
+DQI00082,RPT0059,2024-11-23,Data Mismatch,Low,Data Warehouse,A014,105,Under Investigation,Mapping Issue
+DQI00083,RPT0011,2024-09-22,Invalid Format,High,Client Database,A004,80,Under Investigation,Transformation Logic
+DQI00084,RPT0108,2025-08-13,Duplicate Records,High,Core Banking,A005,50,Open,Database Issue
+DQI00085,RPT0015,2024-09-28,Delayed Data,Medium,Data Warehouse,A014,28,Under Investigation,Mapping Issue
+DQI00086,RPT0068,2024-12-28,Null Values,High,Risk System,A012,3,Open,Mapping Issue
+DQI00087,RPT0081,2026-08-07,Missing Data,Low,Core Banking,A021,5,Open,Unknown
+DQI00088,RPT0094,2025-11-08,Null Values,High,Client Database,A021,116,Under Investigation,Mapping Issue
+DQI00089,RPT0110,2025-07-22,Invalid Format,Medium,Core Banking,A015,40,Open,Mapping Issue
+DQI00090,RPT0005,2026-05-20,Missing Data,High,Core Banking,A015,36,Open,Source System
+DQI00091,RPT0003,2026-03-05,Incorrect Values,Low,HR System,A003,97,Open,Data Entry
+DQI00092,RPT0037,2025-06-22,Incorrect Values,Critical,CRM,A021,81,Under Investigation,Unknown
+DQI00093,RPT0059,2025-09-09,Delayed Data,Medium,Risk System,A011,43,Resolved,Data Entry
+DQI00094,RPT0063,2024-09-11,Invalid Format,Medium,Core Banking,A009,29,Under Investigation,Database Issue
+DQI00095,RPT0044,2025-06-13,Incorrect Values,Low,HR System,A022,95,Under Investigation,Mapping Issue
+DQI00096,RPT0087,2026-02-01,Null Values,Medium,Data Warehouse,A007,98,Resolved,Data Entry
+DQI00097,RPT0091,2025-07-17,Duplicate Records,Medium,Core Banking,A001,2,Under Investigation,Data Entry
+DQI00098,RPT0088,2025-01-01,Null Values,Critical,Data Warehouse,A006,3,Open,Unknown
+DQI00099,RPT0091,2025-05-21,Delayed Data,Medium,HR System,A025,82,Resolved,Mapping Issue
+DQI00100,RPT0065,2025-02-02,Incorrect Values,Medium,Client Database,A016,88,Resolved,Unknown
+DQI00101,RPT0111,2026-07-26,Incorrect Values,Medium,ERP,A024,109,Under Investigation,Mapping Issue
+DQI00102,RPT0053,2025-01-12,Missing Data,High,Data Warehouse,A020,32,Under Investigation,Source System
+DQI00103,RPT0060,2025-03-21,Duplicate Records,High,Data Warehouse,A022,101,Open,Data Entry
+DQI00104,RPT0099,2025-03-25,Invalid Format,Medium,Client Database,A010,117,Resolved,Unknown
+DQI00105,RPT0078,2025-08-01,Missing Data,Medium,Risk System,A013,63,Resolved,Mapping Issue
+DQI00106,RPT0112,2026-07-07,Data Mismatch,Medium,Risk System,A015,65,Under Investigation,Database Issue
+DQI00107,RPT0014,2024-12-13,Incorrect Values,Low,Data Warehouse,A010,64,Under Investigation,Source System
+DQI00108,RPT0088,2024-09-15,Data Mismatch,Medium,Data Warehouse,A019,26,Open,Source System
+DQI00109,RPT0103,2025-12-09,Invalid Format,High,ERP,A011,62,Under Investigation,Transformation Logic
+DQI00110,RPT0078,2025-12-13,Missing Data,Low,CRM,A012,51,Open,Database Issue
+DQI00111,RPT0080,2025-12-12,Missing Data,Medium,Client Database,A005,63,Resolved,Source System
+DQI00112,RPT0068,2025-02-26,Missing Data,Medium,CRM,A007,4,Resolved,Unknown
+DQI00113,RPT0003,2026-01-04,Invalid Format,Low,ERP,A007,76,Open,Data Entry
+DQI00114,RPT0074,2025-04-06,Null Values,Low,Risk System,A023,57,Resolved,Data Entry
+DQI00115,RPT0001,2025-09-11,Missing Data,Medium,CRM,A023,72,Open,Unknown
+DQI00116,RPT0079,2025-07-06,Incorrect Values,Medium,Client Database,A004,118,Resolved,Unknown
+DQI00117,RPT0039,2026-07-06,Delayed Data,Medium,Data Warehouse,A009,110,Resolved,Transformation Logic
+DQI00118,RPT0020,2025-10-21,Missing Data,Low,Client Database,A015,71,Under Investigation,Source System
+DQI00119,RPT0045,2025-08-27,Incorrect Values,Low,CRM,A003,77,Under Investigation,Transformation Logic
+DQI00120,RPT0030,2024-10-06,Duplicate Records,Low,Client Database,A024,107,Resolved,Data Entry
+DQI00121,RPT0088,2024-10-27,Data Mismatch,Medium,Data Warehouse,A021,57,Under Investigation,Data Entry
+DQI00122,RPT0038,2025-03-25,Delayed Data,Low,Risk System,A007,120,Under Investigation,Unknown
+DQI00123,RPT0113,2025-06-13,Data Mismatch,Low,Risk System,A022,47,Under Investigation,Data Entry
+DQI00124,RPT0039,2024-12-04,Delayed Data,High,Data Warehouse,A008,66,Open,Unknown
+DQI00125,RPT0071,2025-07-11,Incorrect Values,Medium,HR System,A025,82,Open,Source System
+DQI00126,RPT0094,2025-01-21,Missing Data,Medium,ERP,A015,106,Open,Transformation Logic
+DQI00127,RPT0074,2026-01-01,Missing Data,Medium,ERP,A003,60,Open,Transformation Logic
+DQI00128,RPT0046,2026-07-08,Null Values,Medium,ERP,A006,44,Open,Mapping Issue
+DQI00129,RPT0111,2026-05-01,Duplicate Records,Medium,Risk System,A021,37,Under Investigation,Data Entry
+DQI00130,RPT0032,2025-10-02,Invalid Format,Medium,HR System,A015,67,Resolved,Mapping Issue
+DQI00131,RPT0098,2025-03-01,Invalid Format,Critical,HR System,A016,61,Under Investigation,Transformation Logic
+DQI00132,RPT0073,2025-12-22,Invalid Format,Medium,Risk System,A009,69,Under Investigation,Source System
+DQI00133,RPT0056,2026-05-05,Null Values,High,Data Warehouse,A006,69,Under Investigation,Mapping Issue
+DQI00134,RPT0069,2025-10-16,Data Mismatch,Medium,Data Warehouse,A020,102,Resolved,Source System
+DQI00135,RPT0091,2026-04-29,Data Mismatch,Low,Risk System,A006,50,Under Investigation,Mapping Issue
+DQI00136,RPT0041,2024-09-04,Null Values,High,ERP,A024,50,Open,Source System
+DQI00137,RPT0010,2025-06-13,Data Mismatch,Medium,HR System,A017,30,Resolved,Transformation Logic
+DQI00138,RPT0010,2026-04-19,Missing Data,Low,HR System,A001,35,Open,Source System
+DQI00139,RPT0100,2026-02-25,Duplicate Records,Medium,Risk System,A009,78,Resolved,Unknown
+DQI00140,RPT0024,2025-05-25,Missing Data,Low,Data Warehouse,A012,120,Open,Database Issue
+DQI00141,RPT0051,2025-08-27,Incorrect Values,High,ERP,A012,81,Open,Source System
+DQI00142,RPT0027,2025-10-16,Duplicate Records,Low,CRM,A022,49,Resolved,Source System
+DQI00143,RPT0066,2026-04-18,Invalid Format,High,Core Banking,A012,43,Open,Mapping Issue
+DQI00144,RPT0029,2025-08-31,Missing Data,High,Data Warehouse,A002,106,Under Investigation,Source System
+DQI00145,RPT0086,2025-05-14,Invalid Format,Medium,HR System,A015,10,Open,Database Issue
+DQI00146,RPT0054,2026-07-29,Data Mismatch,Low,CRM,A016,48,Resolved,Source System
+DQI00147,RPT0120,2025-11-02,Missing Data,Low,HR System,A015,92,Resolved,Mapping Issue
+DQI00148,RPT0062,2025-09-14,Null Values,Low,Risk System,A021,78,Under Investigation,Source System
+DQI00149,RPT0013,2025-04-26,Null Values,Low,HR System,A010,2,Under Investigation,Transformation Logic
+DQI00150,RPT0103,2025-06-17,Missing Data,Medium,Client Database,A020,107,Resolved,Transformation Logic
+DQI00151,RPT0034,2025-03-18,Invalid Format,High,CRM,A001,116,Open,Source System
+DQI00152,RPT0035,2025-01-06,Data Mismatch,Low,Risk System,A023,44,Under Investigation,Mapping Issue
+DQI00153,RPT0118,2024-09-09,Missing Data,High,HR System,A011,23,Resolved,Data Entry
+DQI00154,RPT0006,2025-04-24,Delayed Data,Low,Risk System,A009,94,Open,Source System
+DQI00155,RPT0110,2025-11-26,Delayed Data,Low,CRM,A002,93,Open,Data Entry
+DQI00156,RPT0032,2025-02-06,Incorrect Values,Low,CRM,A023,97,Resolved,Database Issue
+DQI00157,RPT0115,2024-09-11,Delayed Data,High,Risk System,A021,118,Open,Source System
+DQI00158,RPT0052,2026-07-16,Duplicate Records,High,Client Database,A025,63,Resolved,Unknown
+DQI00159,RPT0097,2026-05-11,Null Values,High,Data Warehouse,A016,120,Under Investigation,Mapping Issue
+DQI00160,RPT0033,2026-04-16,Null Values,Medium,Client Database,A011,43,Open,Transformation Logic
+DQI00161,RPT0108,2025-03-26,Incorrect Values,Low,Core Banking,A006,3,Resolved,Data Entry
+DQI00162,RPT0008,2024-10-04,Incorrect Values,Medium,Data Warehouse,A019,98,Open,Unknown
+DQI00163,RPT0097,2026-05-10,Delayed Data,Medium,CRM,A025,55,Under Investigation,Mapping Issue
+DQI00164,RPT0014,2025-08-21,Incorrect Values,Low,HR System,A017,114,Resolved,Mapping Issue
+DQI00165,RPT0015,2025-10-05,Missing Data,High,Core Banking,A018,103,Under Investigation,Source System
+DQI00166,RPT0003,2025-05-24,Incorrect Values,Medium,CRM,A019,73,Open,Unknown
+DQI00167,RPT0117,2026-04-07,Incorrect Values,High,Data Warehouse,A002,47,Under Investigation,Transformation Logic
+DQI00168,RPT0049,2025-11-16,Invalid Format,Medium,Risk System,A011,72,Resolved,Data Entry
+DQI00169,RPT0116,2025-02-16,Incorrect Values,Low,Core Banking,A009,13,Under Investigation,Transformation Logic
+DQI00170,RPT0019,2024-12-21,Incorrect Values,Medium,HR System,A013,100,Open,Unknown
+DQI00171,RPT0090,2024-11-05,Delayed Data,Low,Core Banking,A002,9,Resolved,Data Entry
+DQI00172,RPT0086,2025-02-28,Duplicate Records,High,Client Database,A022,58,Open,Transformation Logic
+DQI00173,RPT0080,2026-01-12,Incorrect Values,Medium,Data Warehouse,A002,114,Open,Transformation Logic
+DQI00174,RPT0073,2025-02-23,Data Mismatch,Low,HR System,A017,94,Resolved,Data Entry
+DQI00175,RPT0049,2025-03-15,Missing Data,Low,HR System,A018,58,Resolved,Mapping Issue
+DQI00176,RPT0069,2025-10-08,Missing Data,Medium,CRM,A009,56,Resolved,Mapping Issue
+DQI00177,RPT0086,2026-05-16,Data Mismatch,Medium,ERP,A020,21,Under Investigation,Unknown
+DQI00178,RPT0095,2026-04-26,Data Mismatch,High,CRM,A022,54,Resolved,Data Entry
+DQI00179,RPT0101,2026-08-02,Null Values,Low,CRM,A011,60,Resolved,Source System
+DQI00180,RPT0011,2026-03-15,Data Mismatch,High,HR System,A015,3,Open,Source System
+DQI00181,RPT0001,2024-10-02,Delayed Data,Medium,CRM,A015,114,Open,Database Issue
+DQI00182,RPT0048,2026-04-05,Delayed Data,Low,Core Banking,A015,38,Open,Source System
+DQI00183,RPT0062,2025-02-06,Data Mismatch,Medium,Data Warehouse,A002,119,Open,Mapping Issue
+DQI00184,RPT0078,2025-11-10,Invalid Format,Medium,HR System,A006,13,Resolved,Database Issue
+DQI00185,RPT0111,2026-06-08,Incorrect Values,High,CRM,A009,77,Resolved,Source System
+DQI00186,RPT0020,2026-05-01,Delayed Data,Critical,CRM,A012,103,Resolved,Mapping Issue
+DQI00187,RPT0080,2025-06-17,Invalid Format,Critical,Data Warehouse,A018,48,Resolved,Transformation Logic
+DQI00188,RPT0117,2025-05-22,Null Values,Medium,Core Banking,A023,61,Resolved,Database Issue
+DQI00189,RPT0088,2026-08-16,Missing Data,Medium,Risk System,A002,23,Open,Database Issue
+DQI00190,RPT0037,2026-06-02,Incorrect Values,Medium,HR System,A015,105,Under Investigation,Mapping Issue
+DQI00191,RPT0111,2026-06-07,Null Values,Medium,Client Database,A001,70,Resolved,Transformation Logic
+DQI00192,RPT0097,2025-01-01,Duplicate Records,Medium,Data Warehouse,A005,45,Resolved,Database Issue
+DQI00193,RPT0002,2025-01-03,Missing Data,Low,Risk System,A018,97,Under Investigation,Source System
+DQI00194,RPT0085,2025-02-19,Data Mismatch,Low,CRM,A003,107,Open,Unknown
+DQI00195,RPT0084,2025-11-23,Missing Data,Low,Data Warehouse,A023,96,Resolved,Mapping Issue
+DQI00196,RPT0044,2025-04-24,Incorrect Values,Low,Client Database,A012,120,Under Investigation,Source System
+DQI00197,RPT0116,2026-05-08,Data Mismatch,Low,Data Warehouse,A025,58,Resolved,Mapping Issue
+DQI00198,RPT0052,2026-03-16,Duplicate Records,Medium,Risk System,A012,75,Under Investigation,Mapping Issue
+DQI00199,RPT0050,2026-02-12,Invalid Format,High,Risk System,A002,26,Resolved,Data Entry
+DQI00200,RPT0066,2025-05-25,Null Values,Low,Data Warehouse,A007,50,Resolved,Source System
+DQI00201,RPT0112,2026-07-30,Duplicate Records,Medium,Core Banking,A012,43,Resolved,Database Issue
+DQI00202,RPT0079,2025-11-22,Missing Data,Critical,Core Banking,A001,51,Under Investigation,Mapping Issue
+DQI00203,RPT0027,2024-09-10,Data Mismatch,Medium,Risk System,A021,106,Under Investigation,Mapping Issue
+DQI00204,RPT0069,2026-02-17,Null Values,High,ERP,A021,109,Open,Source System
+DQI00205,RPT0001,2026-02-15,Missing Data,High,Data Warehouse,A013,83,Open,Database Issue
+DQI00206,RPT0110,2025-05-20,Incorrect Values,Low,HR System,A025,32,Under Investigation,Transformation Logic
+DQI00207,RPT0036,2025-11-03,Null Values,Critical,Data Warehouse,A002,2,Resolved,Unknown
+DQI00208,RPT0092,2025-10-31,Null Values,High,Data Warehouse,A001,85,Under Investigation,Database Issue
+DQI00209,RPT0064,2024-12-08,Null Values,Medium,CRM,A013,82,Open,Database Issue
+DQI00210,RPT0061,2025-10-31,Invalid Format,High,Core Banking,A020,33,Resolved,Data Entry
+DQI00211,RPT0082,2025-01-13,Delayed Data,Low,Risk System,A011,8,Under Investigation,Database Issue
+DQI00212,RPT0061,2026-05-31,Missing Data,High,CRM,A005,35,Open,Unknown
+DQI00213,RPT0109,2026-05-11,Missing Data,Medium,Data Warehouse,A014,22,Open,Data Entry
+DQI00214,RPT0088,2026-07-05,Duplicate Records,Low,Risk System,A002,2,Open,Unknown
+DQI00215,RPT0115,2025-09-06,Null Values,High,Client Database,A018,17,Open,Mapping Issue
+DQI00216,RPT0116,2025-10-15,Data Mismatch,Low,Client Database,A017,28,Resolved,Database Issue
+DQI00217,RPT0004,2025-04-17,Data Mismatch,Low,Data Warehouse,A006,41,Under Investigation,Transformation Logic
+DQI00218,RPT0057,2025-01-03,Null Values,Medium,ERP,A012,2,Open,Transformation Logic
+DQI00219,RPT0018,2025-09-04,Incorrect Values,Low,Client Database,A012,90,Resolved,Data Entry
+DQI00220,RPT0025,2024-09-18,Missing Data,High,Core Banking,A006,16,Open,Mapping Issue
+DQI00221,RPT0071,2024-10-29,Null Values,Low,Client Database,A016,58,Under Investigation,Data Entry
+DQI00222,RPT0027,2024-10-02,Incorrect Values,Low,Risk System,A020,17,Under Investigation,Unknown
+DQI00223,RPT0035,2025-02-16,Delayed Data,Low,CRM,A017,83,Resolved,Data Entry
+DQI00224,RPT0014,2025-11-30,Null Values,Medium,ERP,A001,39,Under Investigation,Source System
+DQI00225,RPT0006,2025-02-05,Invalid Format,Medium,Core Banking,A024,120,Open,Source System
+DQI00226,RPT0118,2024-09-04,Delayed Data,Low,Risk System,A007,79,Resolved,Transformation Logic
+DQI00227,RPT0019,2025-10-02,Invalid Format,Medium,Risk System,A025,81,Open,Database Issue
+DQI00228,RPT0058,2025-08-26,Delayed Data,Medium,ERP,A017,35,Open,Database Issue
+DQI00229,RPT0087,2024-08-20,Delayed Data,Low,Core Banking,A006,21,Resolved,Database Issue
+DQI00230,RPT0053,2025-05-04,Missing Data,Low,ERP,A014,48,Resolved,Mapping Issue
+DQI00231,RPT0105,2026-08-02,Incorrect Values,Low,Risk System,A004,108,Resolved,Mapping Issue
+DQI00232,RPT0079,2025-12-10,Null Values,Low,CRM,A005,40,Under Investigation,Data Entry
+DQI00233,RPT0073,2025-01-23,Null Values,Medium,ERP,A014,10,Open,Database Issue
+DQI00234,RPT0039,2026-05-08,Duplicate Records,Low,ERP,A014,57,Open,Unknown
+DQI00235,RPT0040,2024-11-29,Missing Data,Medium,HR System,A011,86,Under Investigation,Database Issue
+DQI00236,RPT0054,2025-05-11,Incorrect Values,Critical,Client Database,A025,49,Resolved,Data Entry
+DQI00237,RPT0041,2026-02-27,Delayed Data,Low,CRM,A010,76,Open,Unknown
+DQI00238,RPT0014,2025-01-04,Invalid Format,Low,Client Database,A015,120,Under Investigation,Database Issue
+DQI00239,RPT0030,2026-08-03,Data Mismatch,Medium,ERP,A022,101,Resolved,Transformation Logic
+DQI00240,RPT0104,2026-05-05,Incorrect Values,Low,Risk System,A007,21,Resolved,Transformation Logic
+DQI00241,RPT0098,2026-06-06,Delayed Data,Medium,ERP,A004,82,Under Investigation,Database Issue
+DQI00242,RPT0042,2026-06-25,Null Values,Medium,CRM,A020,20,Under Investigation,Unknown
+DQI00243,RPT0034,2025-04-28,Data Mismatch,Medium,CRM,A001,4,Open,Transformation Logic
+DQI00244,RPT0056,2024-10-05,Delayed Data,High,Data Warehouse,A014,119,Under Investigation,Data Entry
+DQI00245,RPT0084,2024-09-06,Null Values,Medium,ERP,A013,65,Resolved,Unknown
+DQI00246,RPT0094,2024-12-12,Incorrect Values,Low,Client Database,A020,63,Open,Mapping Issue
+DQI00247,RPT0046,2025-11-18,Delayed Data,Low,ERP,A016,5,Resolved,Database Issue
+DQI00248,RPT0068,2026-02-18,Delayed Data,Low,ERP,A007,101,Resolved,Source System
+DQI00249,RPT0078,2026-08-02,Missing Data,Medium,Risk System,A019,13,Under Investigation,Transformation Logic
+DQI00250,RPT0081,2024-12-08,Data Mismatch,Low,HR System,A015,8,Open,Source System
+DQI00251,RPT0014,2026-04-13,Data Mismatch,Medium,CRM,A019,19,Under Investigation,Unknown
+DQI00252,RPT0107,2024-11-14,Null Values,Medium,Data Warehouse,A007,85,Open,Mapping Issue
+DQI00253,RPT0065,2026-06-08,Invalid Format,Medium,HR System,A021,24,Resolved,Mapping Issue
+DQI00254,RPT0002,2025-10-02,Delayed Data,Medium,CRM,A013,51,Open,Database Issue
+DQI00255,RPT0113,2026-06-19,Delayed Data,Medium,ERP,A016,10,Under Investigation,Source System
+DQI00256,RPT0048,2025-05-30,Null Values,Low,ERP,A018,22,Under Investigation,Data Entry
+DQI00257,RPT0003,2024-10-15,Delayed Data,Medium,Data Warehouse,A018,120,Resolved,Unknown
+DQI00258,RPT0081,2025-06-06,Duplicate Records,Medium,Core Banking,A004,22,Under Investigation,Database Issue
+DQI00259,RPT0057,2026-02-18,Data Mismatch,Medium,CRM,A007,79,Resolved,Source System
+DQI00260,RPT0034,2026-01-16,Delayed Data,Medium,Client Database,A024,29,Resolved,Database Issue
+DQI00261,RPT0114,2025-06-23,Null Values,Medium,HR System,A009,46,Open,Database Issue
+DQI00262,RPT0006,2025-11-18,Delayed Data,Critical,Risk System,A009,75,Under Investigation,Transformation Logic
+DQI00263,RPT0102,2024-11-06,Data Mismatch,Low,Core Banking,A018,117,Open,Unknown
+DQI00264,RPT0018,2025-05-08,Invalid Format,Medium,Data Warehouse,A002,83,Resolved,Source System
+DQI00265,RPT0089,2025-04-11,Invalid Format,Low,CRM,A014,66,Under Investigation,Mapping Issue
+DQI00266,RPT0008,2025-04-27,Data Mismatch,Medium,Core Banking,A021,40,Under Investigation,Database Issue
+DQI00267,RPT0029,2024-12-03,Invalid Format,Medium,HR System,A001,40,Under Investigation,Mapping Issue
+DQI00268,RPT0090,2024-12-20,Missing Data,Medium,ERP,A015,109,Under Investigation,Transformation Logic
+DQI00269,RPT0043,2026-03-11,Invalid Format,High,HR System,A008,101,Open,Source System
+DQI00270,RPT0112,2025-07-25,Invalid Format,Low,Client Database,A017,114,Open,Source System
+DQI00271,RPT0101,2026-04-27,Missing Data,Low,Core Banking,A016,44,Under Investigation,Unknown
+DQI00272,RPT0057,2025-12-29,Invalid Format,Low,ERP,A023,95,Resolved,Data Entry
+DQI00273,RPT0062,2025-09-02,Missing Data,High,HR System,A011,109,Open,Transformation Logic
+DQI00274,RPT0036,2026-01-06,Delayed Data,Low,HR System,A009,79,Resolved,Transformation Logic
+DQI00275,RPT0021,2025-04-23,Data Mismatch,High,Data Warehouse,A008,71,Under Investigation,Source System
+DQI00276,RPT0062,2025-01-02,Null Values,Medium,Data Warehouse,A014,80,Resolved,Source System
+DQI00277,RPT0118,2026-02-20,Null Values,Medium,Data Warehouse,A017,3,Open,Unknown
+DQI00278,RPT0002,2025-10-30,Incorrect Values,High,Risk System,A004,116,Open,Mapping Issue
+DQI00279,RPT0018,2026-02-09,Data Mismatch,Medium,CRM,A020,51,Under Investigation,Unknown
+DQI00280,RPT0108,2026-07-11,Invalid Format,Medium,Data Warehouse,A011,42,Under Investigation,Transformation Logic
+DQI00281,RPT0110,2026-08-11,Incorrect Values,Low,Core Banking,A005,86,Open,Data Entry
+DQI00282,RPT0059,2025-12-09,Data Mismatch,Medium,ERP,A020,53,Resolved,Database Issue
+DQI00283,RPT0018,2026-04-23,Data Mismatch,Medium,HR System,A014,22,Open,Database Issue
+DQI00284,RPT0004,2025-05-24,Data Mismatch,Low,CRM,A011,87,Open,Source System
+DQI00285,RPT0092,2025-02-09,Duplicate Records,Low,ERP,A018,58,Open,Unknown
+DQI00286,RPT0079,2026-01-18,Duplicate Records,Medium,ERP,A007,32,Under Investigation,Unknown
+DQI00287,RPT0018,2025-11-20,Delayed Data,High,ERP,A012,51,Under Investigation,Data Entry
+DQI00288,RPT0054,2026-05-14,Delayed Data,Medium,ERP,A019,96,Open,Mapping Issue
+DQI00289,RPT0047,2025-01-03,Missing Data,Critical,Data Warehouse,A012,31,Open,Data Entry
+DQI00290,RPT0117,2025-06-09,Missing Data,Medium,Core Banking,A007,73,Open,Unknown
+DQI00291,RPT0107,2025-04-15,Invalid Format,High,Risk System,A019,41,Resolved,Mapping Issue
+DQI00292,RPT0047,2026-03-13,Duplicate Records,Low,CRM,A021,82,Open,Source System
+DQI00293,RPT0106,2026-02-05,Missing Data,Low,Data Warehouse,A014,21,Open,Mapping Issue
+DQI00294,RPT0103,2025-04-05,Missing Data,Medium,Data Warehouse,A003,76,Open,Database Issue
+DQI00295,RPT0110,2024-11-26,Delayed Data,High,CRM,A001,118,Resolved,Database Issue
+DQI00296,RPT0107,2025-01-05,Data Mismatch,Low,HR System,A019,47,Open,Data Entry
+DQI00297,RPT0032,2026-03-09,Incorrect Values,Low,CRM,A002,94,Resolved,Mapping Issue
+DQI00298,RPT0110,2024-08-21,Null Values,High,Data Warehouse,A005,36,Under Investigation,Unknown
+DQI00299,RPT0111,2026-02-16,Invalid Format,High,Risk System,A021,40,Under Investigation,Transformation Logic
+DQI00300,RPT0083,2025-11-07,Missing Data,High,Core Banking,A006,118,Under Investigation,Transformation Logic
+DQI00301,RPT0074,2025-06-20,Invalid Format,Low,Client Database,A015,72,Under Investigation,Transformation Logic
+DQI00302,RPT0021,2026-06-11,Null Values,Low,CRM,A014,27,Open,Data Entry
+DQI00303,RPT0114,2026-04-10,Data Mismatch,High,CRM,A002,74,Under Investigation,Mapping Issue
+DQI00304,RPT0086,2025-11-03,Delayed Data,Low,Data Warehouse,A025,88,Resolved,Source System
+DQI00305,RPT0086,2024-09-14,Missing Data,High,Core Banking,A001,29,Under Investigation,Transformation Logic
+DQI00306,RPT0035,2025-01-08,Missing Data,Medium,ERP,A005,54,Open,Mapping Issue
+DQI00307,RPT0040,2025-11-30,Incorrect Values,High,Risk System,A019,33,Under Investigation,Data Entry
+DQI00308,RPT0018,2025-04-24,Data Mismatch,High,Data Warehouse,A022,45,Under Investigation,Data Entry
+DQI00309,RPT0037,2026-08-05,Incorrect Values,Low,Data Warehouse,A016,26,Under Investigation,Data Entry
+DQI00310,RPT0021,2026-05-10,Data Mismatch,Low,Client Database,A012,3,Under Investigation,Database Issue
+DQI00311,RPT0108,2025-12-07,Duplicate Records,High,Client Database,A018,93,Under Investigation,Mapping Issue
+DQI00312,RPT0116,2025-02-07,Delayed Data,Low,Client Database,A016,83,Open,Database Issue
+DQI00313,RPT0034,2025-12-29,Duplicate Records,High,HR System,A003,9,Under Investigation,Data Entry
+DQI00314,RPT0068,2025-11-02,Duplicate Records,High,HR System,A006,103,Resolved,Source System
+DQI00315,RPT0119,2024-11-08,Missing Data,High,Core Banking,A024,53,Resolved,Source System
+DQI00316,RPT0018,2026-08-17,Duplicate Records,High,Client Database,A016,82,Open,Unknown
+DQI00317,RPT0037,2025-09-09,Invalid Format,Low,ERP,A008,101,Under Investigation,Transformation Logic
+DQI00318,RPT0087,2024-12-07,Incorrect Values,Medium,Data Warehouse,A017,46,Open,Mapping Issue
+DQI00319,RPT0113,2025-05-04,Invalid Format,Medium,HR System,A002,38,Open,Mapping Issue
+DQI00320,RPT0082,2026-03-21,Duplicate Records,High,HR System,A025,35,Open,Unknown
+DQI00321,RPT0020,2024-10-19,Delayed Data,Low,Risk System,A024,63,Under Investigation,Transformation Logic
+DQI00322,RPT0073,2025-02-20,Incorrect Values,Medium,Risk System,A001,15,Open,Mapping Issue
+DQI00323,RPT0112,2025-05-16,Null Values,Medium,CRM,A001,86,Resolved,Database Issue
+DQI00324,RPT0038,2025-04-25,Delayed Data,Medium,ERP,A020,39,Under Investigation,Transformation Logic
+DQI00325,RPT0049,2024-12-28,Duplicate Records,Medium,HR System,A009,10,Resolved,Source System
+DQI00326,RPT0046,2025-12-27,Duplicate Records,Low,Client Database,A012,56,Under Investigation,Mapping Issue
+DQI00327,RPT0111,2026-07-08,Missing Data,Critical,Risk System,A006,119,Open,Database Issue
+DQI00328,RPT0083,2024-10-27,Missing Data,Medium,Core Banking,A016,45,Under Investigation,Database Issue
+DQI00329,RPT0109,2026-05-20,Incorrect Values,Medium,Risk System,A017,100,Under Investigation,Data Entry
+DQI00330,RPT0115,2026-02-21,Invalid Format,Low,Data Warehouse,A012,46,Resolved,Unknown
+DQI00331,RPT0037,2026-01-22,Null Values,Low,ERP,A009,30,Open,Source System
+DQI00332,RPT0004,2025-12-29,Data Mismatch,Medium,Client Database,A025,90,Resolved,Mapping Issue
+DQI00333,RPT0094,2026-03-09,Duplicate Records,High,ERP,A019,11,Open,Database Issue
+DQI00334,RPT0120,2026-07-09,Duplicate Records,Medium,Data Warehouse,A018,43,Under Investigation,Unknown
+DQI00335,RPT0080,2025-05-07,Null Values,High,CRM,A024,43,Open,Transformation Logic
+DQI00336,RPT0016,2025-08-01,Invalid Format,Critical,ERP,A017,108,Resolved,Source System
+DQI00337,RPT0024,2024-08-28,Null Values,Medium,Data Warehouse,A010,11,Under Investigation,Transformation Logic
+DQI00338,RPT0011,2025-03-13,Invalid Format,Low,Core Banking,A009,67,Open,Mapping Issue
+DQI00339,RPT0028,2025-01-29,Delayed Data,Critical,Risk System,A015,76,Under Investigation,Mapping Issue
+DQI00340,RPT0110,2025-03-01,Missing Data,Low,CRM,A015,49,Resolved,Database Issue
+DQI00341,RPT0003,2026-02-09,Invalid Format,Medium,HR System,A013,94,Resolved,Mapping Issue
+DQI00342,RPT0052,2024-10-11,Duplicate Records,Medium,ERP,A009,58,Under Investigation,Unknown
+DQI00343,RPT0055,2025-05-19,Duplicate Records,High,Core Banking,A015,18,Resolved,Source System
+DQI00344,RPT0068,2025-03-07,Data Mismatch,Critical,CRM,A009,79,Under Investigation,Mapping Issue
+DQI00345,RPT0102,2026-04-23,Delayed Data,Low,HR System,A021,81,Resolved,Mapping Issue
+DQI00346,RPT0064,2024-11-11,Delayed Data,Medium,HR System,A011,65,Resolved,Unknown
+DQI00347,RPT0076,2026-03-02,Duplicate Records,Critical,Client Database,A014,81,Resolved,Mapping Issue
+DQI00348,RPT0067,2024-08-20,Missing Data,Medium,Core Banking,A012,105,Open,Data Entry
+DQI00349,RPT0076,2024-09-26,Invalid Format,Low,Client Database,A022,105,Resolved,Database Issue
+DQI00350,RPT0114,2025-06-15,Data Mismatch,High,Client Database,A005,93,Under Investigation,Transformation Logic
+DQI00351,RPT0078,2025-07-26,Duplicate Records,Medium,CRM,A004,97,Open,Data Entry
+DQI00352,RPT0074,2026-03-12,Delayed Data,Low,Core Banking,A006,94,Open,Data Entry
+DQI00353,RPT0107,2025-07-11,Null Values,Medium,HR System,A016,71,Resolved,Data Entry
+DQI00354,RPT0025,2024-12-27,Invalid Format,Medium,ERP,A003,30,Under Investigation,Mapping Issue
+DQI00355,RPT0010,2026-07-08,Null Values,Medium,Risk System,A022,31,Resolved,Unknown
+DQI00356,RPT0115,2025-07-07,Data Mismatch,Low,Data Warehouse,A003,44,Under Investigation,Mapping Issue
+DQI00357,RPT0049,2025-09-06,Null Values,Medium,Core Banking,A021,61,Resolved,Transformation Logic
+DQI00358,RPT0003,2026-07-05,Missing Data,Low,Risk System,A002,104,Resolved,Mapping Issue
+DQI00359,RPT0079,2025-06-10,Incorrect Values,Medium,Risk System,A019,86,Open,Database Issue
+DQI00360,RPT0113,2025-05-19,Null Values,Medium,Data Warehouse,A002,113,Resolved,Data Entry
+DQI00361,RPT0030,2025-10-18,Duplicate Records,Low,Client Database,A021,43,Resolved,Unknown
+DQI00362,RPT0079,2025-06-07,Duplicate Records,High,HR System,A001,14,Open,Transformation Logic
+DQI00363,RPT0050,2024-11-06,Null Values,High,Client Database,A007,116,Resolved,Unknown
+DQI00364,RPT0117,2026-05-25,Invalid Format,Medium,Risk System,A022,75,Resolved,Unknown
+DQI00365,RPT0087,2025-08-27,Data Mismatch,High,Risk System,A013,38,Resolved,Transformation Logic
+DQI00366,RPT0079,2026-04-24,Delayed Data,Medium,Data Warehouse,A011,88,Resolved,Source System
+DQI00367,RPT0086,2026-06-22,Incorrect Values,Low,Core Banking,A025,22,Resolved,Database Issue
+DQI00368,RPT0004,2025-11-11,Null Values,Medium,Data Warehouse,A011,86,Open,Database Issue
+DQI00369,RPT0111,2026-01-07,Missing Data,Low,HR System,A010,41,Open,Unknown
+DQI00370,RPT0103,2026-03-31,Null Values,Medium,CRM,A019,102,Under Investigation,Database Issue
+DQI00371,RPT0087,2026-02-04,Incorrect Values,Medium,Client Database,A025,42,Under Investigation,Mapping Issue
+DQI00372,RPT0026,2025-02-11,Incorrect Values,Low,Client Database,A009,87,Resolved,Database Issue
+DQI00373,RPT0019,2024-12-24,Invalid Format,High,Risk System,A016,108,Open,Unknown
+DQI00374,RPT0110,2025-08-05,Incorrect Values,Low,ERP,A022,59,Under Investigation,Mapping Issue
+DQI00375,RPT0057,2024-10-16,Missing Data,Medium,CRM,A011,84,Under Investigation,Source System
+DQI00376,RPT0012,2026-05-02,Duplicate Records,High,HR System,A004,46,Resolved,Transformation Logic
+DQI00377,RPT0058,2026-06-07,Delayed Data,Low,ERP,A001,57,Open,Data Entry
+DQI00378,RPT0107,2024-09-14,Incorrect Values,Medium,HR System,A012,37,Open,Mapping Issue
+DQI00379,RPT0053,2025-04-06,Missing Data,Critical,Risk System,A013,81,Under Investigation,Mapping Issue
+DQI00380,RPT0012,2024-09-04,Null Values,Medium,HR System,A011,3,Resolved,Unknown
+DQI00381,RPT0099,2025-04-24,Incorrect Values,Low,CRM,A001,2,Resolved,Mapping Issue
+DQI00382,RPT0049,2025-03-10,Incorrect Values,Medium,HR System,A010,60,Open,Data Entry
+DQI00383,RPT0099,2024-11-09,Invalid Format,Medium,Risk System,A013,110,Open,Unknown
+DQI00384,RPT0018,2024-10-16,Duplicate Records,Medium,Client Database,A021,94,Open,Mapping Issue
+DQI00385,RPT0008,2025-05-12,Missing Data,Critical,Core Banking,A001,99,Open,Database Issue
+DQI00386,RPT0097,2024-12-30,Missing Data,Low,Risk System,A024,103,Resolved,Transformation Logic
+DQI00387,RPT0039,2026-07-10,Delayed Data,Low,Risk System,A014,102,Under Investigation,Transformation Logic
+DQI00388,RPT0082,2025-06-07,Invalid Format,Low,CRM,A014,64,Resolved,Mapping Issue
+DQI00389,RPT0109,2024-12-22,Incorrect Values,Critical,Risk System,A015,30,Resolved,Source System
+DQI00390,RPT0112,2026-03-11,Null Values,Low,Core Banking,A006,114,Under Investigation,Database Issue
+DQI00391,RPT0068,2024-10-17,Data Mismatch,Low,CRM,A021,92,Open,Transformation Logic
+DQI00392,RPT0103,2025-10-18,Missing Data,Medium,HR System,A013,75,Resolved,Data Entry
+DQI00393,RPT0110,2026-07-18,Data Mismatch,High,Risk System,A002,16,Open,Mapping Issue
+DQI00394,RPT0029,2024-10-31,Delayed Data,Low,Data Warehouse,A015,8,Resolved,Data Entry
+DQI00395,RPT0016,2025-05-09,Incorrect Values,Medium,Data Warehouse,A022,17,Under Investigation,Unknown
+DQI00396,RPT0078,2025-11-24,Data Mismatch,High,Data Warehouse,A022,58,Resolved,Source System
+DQI00397,RPT0057,2025-12-09,Incorrect Values,Medium,CRM,A019,54,Under Investigation,Mapping Issue
+DQI00398,RPT0035,2026-07-14,Delayed Data,Medium,Client Database,A014,61,Resolved,Transformation Logic
+DQI00399,RPT0029,2025-08-29,Null Values,Low,CRM,A017,67,Under Investigation,Mapping Issue
+DQI00400,RPT0061,2026-02-18,Incorrect Values,Medium,Data Warehouse,A019,93,Under Investigation,Database Issue
+DQI00401,RPT0100,2024-09-13,Duplicate Records,High,ERP,A015,34,Open,Database Issue
+DQI00402,RPT0051,2025-07-21,Delayed Data,Medium,Client Database,A022,96,Open,Transformation Logic
+DQI00403,RPT0065,2026-01-09,Incorrect Values,Medium,ERP,A023,119,Resolved,Source System
+DQI00404,RPT0092,2024-12-26,Missing Data,High,Data Warehouse,A003,74,Open,Data Entry
+DQI00405,RPT0046,2025-12-04,Incorrect Values,Medium,CRM,A004,77,Resolved,Transformation Logic
+DQI00406,RPT0094,2026-07-12,Null Values,Medium,HR System,A003,21,Resolved,Data Entry
+DQI00407,RPT0067,2025-07-23,Null Values,Medium,CRM,A009,95,Resolved,Database Issue
+DQI00408,RPT0038,2024-12-20,Delayed Data,Low,Risk System,A013,25,Open,Database Issue
+DQI00409,RPT0104,2024-09-30,Null Values,Medium,Risk System,A004,103,Under Investigation,Transformation Logic
+DQI00410,RPT0042,2024-11-06,Data Mismatch,Medium,CRM,A019,103,Open,Unknown
+DQI00411,RPT0101,2025-05-04,Invalid Format,Medium,ERP,A022,105,Resolved,Data Entry
+DQI00412,RPT0031,2025-01-26,Data Mismatch,High,Data Warehouse,A018,83,Resolved,Transformation Logic
+DQI00413,RPT0079,2025-01-14,Invalid Format,Low,CRM,A012,108,Resolved,Database Issue
+DQI00414,RPT0049,2025-07-03,Invalid Format,Medium,Risk System,A019,32,Resolved,Source System
+DQI00415,RPT0007,2026-02-12,Data Mismatch,Low,Core Banking,A014,78,Under Investigation,Data Entry
+DQI00416,RPT0099,2025-10-24,Incorrect Values,Low,Core Banking,A022,9,Under Investigation,Source System
+DQI00417,RPT0029,2026-03-03,Delayed Data,Low,Client Database,A009,99,Resolved,Mapping Issue
+DQI00418,RPT0091,2026-08-08,Missing Data,Medium,HR System,A003,112,Under Investigation,Unknown
+DQI00419,RPT0069,2026-03-09,Null Values,Low,Client Database,A002,109,Resolved,Database Issue
+DQI00420,RPT0007,2025-10-13,Data Mismatch,Medium,HR System,A014,88,Under Investigation,Source System
+DQI00421,RPT0040,2025-03-14,Null Values,High,Risk System,A003,39,Open,Unknown
+DQI00422,RPT0013,2026-01-15,Invalid Format,Medium,CRM,A016,51,Open,Unknown
+DQI00423,RPT0021,2025-03-26,Delayed Data,Low,CRM,A014,37,Open,Source System
+DQI00424,RPT0095,2025-04-07,Missing Data,Medium,Client Database,A024,45,Open,Database Issue
+DQI00425,RPT0033,2025-02-20,Invalid Format,Low,Client Database,A021,3,Open,Mapping Issue
+DQI00426,RPT0042,2024-11-02,Delayed Data,Medium,HR System,A016,91,Resolved,Data Entry
+DQI00427,RPT0008,2024-09-27,Missing Data,Critical,ERP,A003,31,Open,Source System
+DQI00428,RPT0053,2025-06-21,Delayed Data,Medium,CRM,A015,112,Open,Database Issue
+DQI00429,RPT0099,2025-11-07,Data Mismatch,Medium,ERP,A022,24,Open,Database Issue
+DQI00430,RPT0034,2025-10-20,Data Mismatch,Low,HR System,A004,55,Under Investigation,Data Entry
+DQI00431,RPT0111,2026-06-03,Null Values,Medium,Client Database,A007,46,Resolved,Data Entry
+DQI00432,RPT0011,2025-09-05,Delayed Data,Low,CRM,A005,6,Open,Transformation Logic
+DQI00433,RPT0018,2024-12-17,Delayed Data,Low,ERP,A015,108,Open,Unknown
+DQI00434,RPT0042,2024-10-01,Missing Data,High,Client Database,A010,70,Under Investigation,Transformation Logic
+DQI00435,RPT0079,2025-05-27,Duplicate Records,Medium,HR System,A024,32,Open,Unknown
+DQI00436,RPT0036,2024-08-22,Duplicate Records,Medium,Core Banking,A018,90,Resolved,Source System
+DQI00437,RPT0016,2025-07-18,Invalid Format,Low,CRM,A011,2,Under Investigation,Data Entry
+DQI00438,RPT0100,2024-10-27,Delayed Data,Medium,CRM,A022,37,Open,Source System
+DQI00439,RPT0115,2025-04-05,Delayed Data,Low,Core Banking,A012,99,Resolved,Transformation Logic
+DQI00440,RPT0047,2026-05-21,Duplicate Records,High,CRM,A017,62,Resolved,Database Issue
+DQI00441,RPT0041,2026-01-16,Missing Data,Medium,ERP,A011,61,Resolved,Unknown
+DQI00442,RPT0036,2025-12-18,Duplicate Records,Critical,ERP,A009,20,Under Investigation,Transformation Logic
+DQI00443,RPT0045,2025-11-29,Duplicate Records,Low,Risk System,A024,74,Open,Database Issue
+DQI00444,RPT0022,2025-08-28,Incorrect Values,High,Client Database,A001,57,Open,Transformation Logic
+DQI00445,RPT0002,2025-01-22,Incorrect Values,High,Data Warehouse,A023,4,Open,Unknown
+DQI00446,RPT0067,2024-11-03,Incorrect Values,Low,CRM,A010,94,Under Investigation,Transformation Logic
+DQI00447,RPT0061,2024-09-08,Incorrect Values,Medium,Risk System,A022,7,Under Investigation,Transformation Logic
+DQI00448,RPT0095,2025-01-27,Duplicate Records,Medium,Core Banking,A017,48,Open,Unknown
+DQI00449,RPT0094,2024-12-30,Duplicate Records,Low,HR System,A015,113,Resolved,Mapping Issue
+DQI00450,RPT0082,2025-12-28,Duplicate Records,High,Core Banking,A017,82,Open,Unknown
+DQI00451,RPT0008,2025-04-03,Missing Data,Low,Core Banking,A012,69,Under Investigation,Transformation Logic
+DQI00452,RPT0019,2024-10-22,Duplicate Records,High,Risk System,A007,55,Under Investigation,Unknown
+DQI00453,RPT0048,2025-08-22,Data Mismatch,Low,Risk System,A001,60,Resolved,Source System
+DQI00454,RPT0082,2026-06-06,Null Values,Medium,Data Warehouse,A024,19,Resolved,Transformation Logic
+DQI00455,RPT0107,2024-11-17,Null Values,High,Risk System,A010,14,Open,Mapping Issue
+DQI00456,RPT0109,2025-04-16,Null Values,High,HR System,A018,50,Under Investigation,Unknown
+DQI00457,RPT0063,2026-04-21,Duplicate Records,Medium,CRM,A008,96,Open,Database Issue
+DQI00458,RPT0068,2025-06-24,Data Mismatch,Medium,CRM,A023,3,Open,Transformation Logic
+DQI00459,RPT0071,2025-08-20,Delayed Data,Medium,HR System,A003,76,Resolved,Unknown
+DQI00460,RPT0029,2025-09-03,Null Values,Low,HR System,A020,101,Open,Data Entry
+DQI00461,RPT0109,2026-07-16,Invalid Format,Medium,ERP,A025,48,Under Investigation,Mapping Issue
+DQI00462,RPT0104,2026-01-15,Data Mismatch,High,Core Banking,A011,36,Resolved,Transformation Logic
+DQI00463,RPT0022,2025-03-13,Data Mismatch,Medium,ERP,A001,21,Under Investigation,Unknown
+DQI00464,RPT0053,2024-10-29,Incorrect Values,Low,Risk System,A009,100,Under Investigation,Data Entry
+DQI00465,RPT0073,2025-12-31,Duplicate Records,High,HR System,A024,77,Open,Source System
+DQI00466,RPT0010,2025-10-16,Missing Data,Low,Client Database,A022,59,Open,Source System
+DQI00467,RPT0076,2025-06-17,Data Mismatch,High,Risk System,A021,74,Resolved,Database Issue
+DQI00468,RPT0005,2025-01-10,Incorrect Values,Medium,Data Warehouse,A022,11,Under Investigation,Transformation Logic
+DQI00469,RPT0019,2025-06-04,Duplicate Records,Medium,CRM,A013,80,Resolved,Database Issue
+DQI00470,RPT0002,2026-07-08,Invalid Format,Medium,Core Banking,A023,50,Resolved,Mapping Issue
+DQI00471,RPT0102,2025-06-12,Invalid Format,Medium,Risk System,A004,65,Resolved,Transformation Logic
+DQI00472,RPT0002,2025-06-02,Duplicate Records,Medium,Core Banking,A013,83,Under Investigation,Data Entry
+DQI00473,RPT0054,2025-01-11,Invalid Format,Medium,ERP,A011,98,Under Investigation,Source System
+DQI00474,RPT0039,2025-08-01,Data Mismatch,Medium,CRM,A005,80,Resolved,Data Entry
+DQI00475,RPT0079,2024-09-23,Delayed Data,Low,Client Database,A022,71,Resolved,Unknown
+DQI00476,RPT0066,2025-03-12,Delayed Data,Critical,Risk System,A025,115,Under Investigation,Mapping Issue
+DQI00477,RPT0012,2025-07-27,Delayed Data,High,CRM,A015,10,Resolved,Data Entry
+DQI00478,RPT0027,2025-08-16,Duplicate Records,Medium,HR System,A013,119,Resolved,Transformation Logic
+DQI00479,RPT0004,2025-03-12,Data Mismatch,High,Client Database,A021,67,Open,Database Issue
+DQI00480,RPT0101,2025-02-11,Incorrect Values,Medium,Risk System,A009,35,Resolved,Mapping Issue
+DQI00481,RPT0026,2026-06-01,Missing Data,Low,ERP,A014,109,Under Investigation,Unknown
+DQI00482,RPT0054,2025-03-16,Data Mismatch,Medium,ERP,A018,111,Resolved,Source System
+DQI00483,RPT0119,2025-11-01,Missing Data,Medium,Client Database,A002,89,Open,Transformation Logic
+DQI00484,RPT0031,2024-10-06,Incorrect Values,Medium,CRM,A025,91,Under Investigation,Mapping Issue
+DQI00485,RPT0099,2024-12-15,Data Mismatch,Medium,Data Warehouse,A017,44,Under Investigation,Data Entry
+DQI00486,RPT0072,2026-03-27,Delayed Data,Low,Risk System,A002,17,Resolved,Database Issue
+DQI00487,RPT0060,2026-02-11,Data Mismatch,High,ERP,A020,37,Resolved,Unknown
+DQI00488,RPT0016,2026-01-20,Duplicate Records,Critical,ERP,A013,15,Open,Database Issue
+DQI00489,RPT0001,2024-11-03,Incorrect Values,Medium,ERP,A002,51,Resolved,Unknown
+DQI00490,RPT0063,2024-10-25,Duplicate Records,Low,Client Database,A004,11,Open,Source System
+DQI00491,RPT0112,2026-01-20,Invalid Format,Low,ERP,A016,33,Open,Database Issue
+DQI00492,RPT0011,2025-05-14,Missing Data,Medium,Client Database,A011,113,Under Investigation,Transformation Logic
+DQI00493,RPT0110,2026-05-09,Duplicate Records,Low,Core Banking,A004,5,Open,Data Entry
+DQI00494,RPT0113,2025-10-14,Data Mismatch,Low,Data Warehouse,A003,23,Under Investigation,Database Issue
+DQI00495,RPT0029,2025-07-07,Delayed Data,Low,CRM,A002,46,Resolved,Source System
+DQI00496,RPT0024,2026-03-30,Invalid Format,Medium,Risk System,A011,109,Resolved,Transformation Logic
+DQI00497,RPT0020,2025-11-21,Invalid Format,Medium,ERP,A018,23,Under Investigation,Source System
+DQI00498,RPT0005,2025-02-12,Invalid Format,Low,ERP,A001,59,Under Investigation,Unknown
+DQI00499,RPT0107,2025-10-23,Null Values,High,Client Database,A010,13,Resolved,Source System
+DQI00500,RPT0050,2024-10-06,Null Values,High,Client Database,A013,37,Resolved,Unknown
+DQI00501,RPT0120,2026-06-04,Data Mismatch,Low,Data Warehouse,A016,6,Resolved,Mapping Issue
+DQI00502,RPT0037,2025-06-16,Invalid Format,Low,Core Banking,A002,97,Under Investigation,Unknown
+DQI00503,RPT0056,2026-05-17,Delayed Data,Medium,HR System,A007,2,Under Investigation,Unknown
+DQI00504,RPT0031,2025-09-29,Incorrect Values,High,ERP,A012,31,Resolved,Source System
+DQI00505,RPT0054,2025-07-11,Invalid Format,Critical,ERP,A011,25,Resolved,Source System
+DQI00506,RPT0035,2025-10-09,Null Values,Low,Data Warehouse,A004,75,Open,Transformation Logic
+DQI00507,RPT0010,2026-02-04,Incorrect Values,Low,Risk System,A024,87,Open,Source System
+DQI00508,RPT0004,2026-06-24,Invalid Format,Low,Client Database,A013,18,Open,Transformation Logic
+DQI00509,RPT0107,2026-08-17,Null Values,Low,Risk System,A005,77,Open,Source System
+DQI00510,RPT0108,2025-08-23,Missing Data,Medium,ERP,A011,83,Under Investigation,Unknown
+DQI00511,RPT0031,2025-11-07,Data Mismatch,Medium,ERP,A019,45,Resolved,Transformation Logic
+DQI00512,RPT0067,2026-07-05,Duplicate Records,High,Core Banking,A016,86,Open,Transformation Logic
+DQI00513,RPT0041,2025-02-19,Missing Data,Low,Risk System,A017,77,Resolved,Unknown
+DQI00514,RPT0039,2025-08-24,Null Values,Low,CRM,A013,72,Resolved,Unknown
+DQI00515,RPT0012,2025-04-09,Incorrect Values,Medium,HR System,A010,7,Open,Database Issue
+DQI00516,RPT0051,2024-10-20,Missing Data,Low,Core Banking,A001,36,Resolved,Transformation Logic
+DQI00517,RPT0116,2025-06-22,Null Values,Medium,Core Banking,A012,83,Under Investigation,Unknown
+DQI00518,RPT0050,2026-07-22,Invalid Format,Medium,Risk System,A024,39,Open,Unknown
+DQI00519,RPT0014,2026-06-14,Missing Data,Low,Risk System,A021,66,Under Investigation,Source System
+DQI00520,RPT0013,2026-02-25,Duplicate Records,Low,Data Warehouse,A012,2,Resolved,Database Issue
+DQI00521,RPT0052,2024-09-15,Delayed Data,Medium,HR System,A001,2,Under Investigation,Source System
+DQI00522,RPT0005,2025-09-13,Null Values,High,Data Warehouse,A011,46,Resolved,Unknown
+DQI00523,RPT0105,2025-11-06,Duplicate Records,Medium,Data Warehouse,A016,51,Under Investigation,Data Entry
+DQI00524,RPT0013,2026-07-20,Incorrect Values,High,Data Warehouse,A021,53,Resolved,Unknown
+DQI00525,RPT0066,2025-09-25,Invalid Format,Low,HR System,A010,118,Resolved,Unknown
+DQI00526,RPT0055,2026-05-03,Data Mismatch,Medium,Client Database,A024,46,Under Investigation,Database Issue
+DQI00527,RPT0101,2025-11-06,Invalid Format,High,ERP,A001,65,Resolved,Source System
+DQI00528,RPT0011,2026-01-28,Delayed Data,Low,CRM,A008,64,Open,Unknown
+DQI00529,RPT0049,2025-12-14,Incorrect Values,Low,Risk System,A010,64,Resolved,Data Entry
+DQI00530,RPT0091,2024-12-12,Duplicate Records,Low,Risk System,A024,94,Open,Source System
+DQI00531,RPT0038,2024-11-21,Delayed Data,Medium,Core Banking,A007,58,Resolved,Data Entry
+DQI00532,RPT0002,2026-03-31,Incorrect Values,Medium,Client Database,A002,47,Resolved,Transformation Logic
+DQI00533,RPT0093,2025-08-03,Missing Data,Medium,Client Database,A012,56,Open,Mapping Issue
+DQI00534,RPT0117,2025-01-01,Incorrect Values,Low,Core Banking,A005,56,Open,Unknown
+DQI00535,RPT0053,2024-12-27,Incorrect Values,Low,HR System,A003,28,Resolved,Database Issue
+DQI00536,RPT0034,2025-01-31,Delayed Data,Low,Core Banking,A002,22,Under Investigation,Database Issue
+DQI00537,RPT0086,2026-05-09,Invalid Format,Low,Core Banking,A015,57,Resolved,Transformation Logic
+DQI00538,RPT0057,2025-01-16,Data Mismatch,High,Core Banking,A004,2,Open,Source System
+DQI00539,RPT0023,2024-11-26,Missing Data,High,Core Banking,A006,23,Open,Data Entry
+DQI00540,RPT0085,2024-09-22,Duplicate Records,High,CRM,A007,86,Open,Unknown
+DQI00541,RPT0024,2025-07-14,Data Mismatch,Low,Client Database,A001,25,Under Investigation,Data Entry
+DQI00542,RPT0048,2024-10-19,Missing Data,Low,Core Banking,A022,64,Resolved,Source System
+DQI00543,RPT0005,2026-02-01,Data Mismatch,Medium,Core Banking,A025,80,Under Investigation,Data Entry
+DQI00544,RPT0058,2025-07-24,Delayed Data,Medium,ERP,A020,16,Resolved,Transformation Logic
+DQI00545,RPT0052,2025-01-23,Delayed Data,High,Client Database,A021,97,Resolved,Source System
+DQI00546,RPT0070,2026-05-20,Null Values,High,ERP,A019,115,Open,Unknown
+DQI00547,RPT0014,2025-12-20,Incorrect Values,Medium,ERP,A002,57,Open,Data Entry
+DQI00548,RPT0108,2024-12-12,Invalid Format,Medium,Data Warehouse,A013,54,Open,Mapping Issue
+DQI00549,RPT0022,2026-05-29,Incorrect Values,Medium,Core Banking,A002,50,Under Investigation,Data Entry
+DQI00550,RPT0088,2025-11-25,Missing Data,High,CRM,A021,97,Open,Transformation Logic
+DQI00551,RPT0075,2025-03-08,Null Values,High,Client Database,A005,75,Open,Mapping Issue
+DQI00552,RPT0114,2025-04-25,Delayed Data,High,ERP,A017,76,Open,Source System
+DQI00553,RPT0081,2026-07-28,Delayed Data,Low,Core Banking,A025,46,Resolved,Data Entry
+DQI00554,RPT0020,2026-03-07,Invalid Format,Low,Core Banking,A022,111,Open,Transformation Logic
+DQI00555,RPT0087,2026-07-31,Duplicate Records,Low,Risk System,A024,120,Under Investigation,Mapping Issue
+DQI00556,RPT0069,2026-05-09,Delayed Data,Low,Risk System,A004,17,Under Investigation,Database Issue
+DQI00557,RPT0068,2024-10-11,Incorrect Values,Low,Risk System,A007,25,Under Investigation,Source System
+DQI00558,RPT0002,2024-10-26,Incorrect Values,High,Data Warehouse,A016,26,Resolved,Source System
+DQI00559,RPT0104,2025-06-17,Delayed Data,Medium,CRM,A008,30,Under Investigation,Database Issue
+DQI00560,RPT0056,2025-10-26,Missing Data,Low,HR System,A016,96,Open,Mapping Issue
+DQI00561,RPT0112,2025-06-24,Invalid Format,Medium,CRM,A019,90,Under Investigation,Source System
+DQI00562,RPT0109,2025-10-22,Incorrect Values,Medium,Data Warehouse,A004,3,Under Investigation,Mapping Issue
+DQI00563,RPT0038,2025-04-30,Incorrect Values,Low,Risk System,A010,64,Open,Unknown
+DQI00564,RPT0076,2026-06-16,Null Values,Low,CRM,A010,57,Resolved,Database Issue
+DQI00565,RPT0027,2025-03-22,Data Mismatch,Medium,Client Database,A021,62,Open,Transformation Logic
+DQI00566,RPT0082,2025-09-27,Invalid Format,Low,Core Banking,A024,120,Open,Mapping Issue
+DQI00567,RPT0077,2025-08-10,Delayed Data,Medium,Data Warehouse,A020,42,Resolved,Database Issue
+DQI00568,RPT0030,2026-08-02,Invalid Format,Medium,ERP,A023,54,Open,Transformation Logic
+DQI00569,RPT0063,2026-06-29,Incorrect Values,Low,Risk System,A002,31,Resolved,Unknown
+DQI00570,RPT0074,2024-08-29,Delayed Data,High,HR System,A002,12,Open,Mapping Issue
+DQI00571,RPT0104,2026-04-22,Incorrect Values,Medium,CRM,A009,89,Resolved,Unknown
+DQI00572,RPT0115,2026-02-15,Duplicate Records,Low,Data Warehouse,A013,4,Under Investigation,Unknown
+DQI00573,RPT0100,2025-12-16,Duplicate Records,High,Client Database,A015,75,Open,Unknown
+DQI00574,RPT0096,2025-11-19,Invalid Format,Medium,Data Warehouse,A002,83,Open,Unknown
+DQI00575,RPT0061,2025-09-29,Delayed Data,Medium,Risk System,A001,15,Resolved,Unknown
+DQI00576,RPT0055,2026-04-19,Null Values,Low,HR System,A008,32,Open,Data Entry
+DQI00577,RPT0032,2025-07-11,Duplicate Records,Medium,Client Database,A002,61,Resolved,Transformation Logic
+DQI00578,RPT0025,2024-11-15,Delayed Data,Critical,Core Banking,A003,35,Resolved,Data Entry
+DQI00579,RPT0016,2025-07-07,Data Mismatch,High,Risk System,A014,93,Under Investigation,Database Issue
+DQI00580,RPT0014,2024-12-14,Missing Data,Low,HR System,A010,10,Open,Mapping Issue
+DQI00581,RPT0057,2024-12-13,Duplicate Records,High,ERP,A009,5,Open,Database Issue
+DQI00582,RPT0030,2025-11-03,Null Values,Medium,HR System,A012,98,Open,Source System
+DQI00583,RPT0102,2025-11-19,Incorrect Values,Low,Data Warehouse,A010,46,Open,Transformation Logic
+DQI00584,RPT0051,2025-11-15,Missing Data,Low,Client Database,A018,101,Open,Database Issue
+DQI00585,RPT0061,2026-04-01,Data Mismatch,Low,HR System,A024,31,Resolved,Source System
+DQI00586,RPT0114,2026-08-19,Invalid Format,Medium,Client Database,A009,68,Resolved,Database Issue
+DQI00587,RPT0071,2024-11-05,Missing Data,Low,HR System,A012,40,Open,Database Issue
+DQI00588,RPT0048,2026-08-08,Missing Data,Medium,Data Warehouse,A001,53,Under Investigation,Database Issue
+DQI00589,RPT0034,2024-11-10,Invalid Format,Critical,CRM,A017,103,Under Investigation,Database Issue
+DQI00590,RPT0037,2025-10-31,Invalid Format,Low,Core Banking,A013,18,Under Investigation,Transformation Logic
+DQI00591,RPT0056,2026-04-17,Null Values,Medium,CRM,A015,23,Resolved,Data Entry
+DQI00592,RPT0104,2024-11-06,Missing Data,Medium,Client Database,A015,120,Resolved,Mapping Issue
+DQI00593,RPT0073,2026-04-22,Missing Data,High,ERP,A023,35,Resolved,Database Issue
+DQI00594,RPT0018,2025-03-30,Data Mismatch,Low,Risk System,A005,118,Under Investigation,Unknown
+DQI00595,RPT0040,2026-06-24,Invalid Format,Low,Core Banking,A001,2,Under Investigation,Transformation Logic
+DQI00596,RPT0101,2025-10-10,Invalid Format,Low,HR System,A008,69,Open,Database Issue
+DQI00597,RPT0037,2026-07-04,Missing Data,Low,Data Warehouse,A014,53,Open,Database Issue
+DQI00598,RPT0072,2025-05-14,Data Mismatch,Low,HR System,A014,27,Under Investigation,Source System
+DQI00599,RPT0094,2026-07-02,Duplicate Records,Low,Data Warehouse,A021,120,Resolved,Unknown
+DQI00600,RPT0090,2025-07-05,Data Mismatch,Low,Risk System,A018,105,Resolved,Database Issue
+DQI00601,RPT0027,2025-03-13,Incorrect Values,Low,HR System,A019,116,Resolved,Data Entry
+DQI00602,RPT0005,2025-06-13,Delayed Data,Medium,ERP,A003,33,Resolved,Mapping Issue
+DQI00603,RPT0084,2026-01-10,Data Mismatch,Medium,ERP,A008,8,Under Investigation,Data Entry
+DQI00604,RPT0098,2025-09-01,Invalid Format,Low,Client Database,A015,62,Open,Source System
+DQI00605,RPT0077,2025-11-07,Data Mismatch,Low,CRM,A016,41,Resolved,Mapping Issue
+DQI00606,RPT0068,2025-12-05,Invalid Format,High,Client Database,A003,34,Resolved,Data Entry
+DQI00607,RPT0012,2025-08-22,Duplicate Records,Medium,Data Warehouse,A016,77,Under Investigation,Source System
+DQI00608,RPT0032,2024-09-18,Delayed Data,Low,Data Warehouse,A020,87,Under Investigation,Transformation Logic
+DQI00609,RPT0116,2024-12-31,Delayed Data,Medium,HR System,A019,44,Resolved,Source System
+DQI00610,RPT0024,2025-03-21,Duplicate Records,High,Risk System,A015,103,Under Investigation,Database Issue
+DQI00611,RPT0045,2025-06-28,Data Mismatch,Low,ERP,A019,75,Open,Transformation Logic
+DQI00612,RPT0067,2024-12-09,Data Mismatch,High,HR System,A005,77,Resolved,Transformation Logic
+DQI00613,RPT0039,2025-12-13,Duplicate Records,Low,Risk System,A017,82,Open,Source System
+DQI00614,RPT0056,2025-12-05,Missing Data,High,Risk System,A022,45,Resolved,Transformation Logic
+DQI00615,RPT0050,2026-01-30,Null Values,Critical,Data Warehouse,A018,90,Resolved,Source System
+DQI00616,RPT0063,2026-02-09,Incorrect Values,Medium,CRM,A003,51,Open,Unknown
+DQI00617,RPT0072,2025-06-28,Null Values,Critical,CRM,A009,21,Open,Mapping Issue
+DQI00618,RPT0005,2024-09-19,Null Values,Low,Client Database,A007,22,Open,Transformation Logic
+DQI00619,RPT0065,2025-06-23,Data Mismatch,Low,Core Banking,A013,41,Resolved,Transformation Logic
+DQI00620,RPT0072,2026-07-11,Delayed Data,High,Data Warehouse,A023,84,Resolved,Mapping Issue
+DQI00621,RPT0017,2026-07-03,Null Values,High,Risk System,A015,104,Open,Mapping Issue
+DQI00622,RPT0025,2025-05-04,Data Mismatch,Low,Client Database,A021,99,Under Investigation,Data Entry
+DQI00623,RPT0053,2026-02-07,Invalid Format,Medium,Client Database,A019,32,Under Investigation,Source System
+DQI00624,RPT0038,2025-02-20,Null Values,Medium,CRM,A023,62,Open,Database Issue
+DQI00625,RPT0114,2024-09-27,Invalid Format,Medium,Data Warehouse,A013,30,Under Investigation,Transformation Logic
+DQI00626,RPT0107,2026-03-22,Data Mismatch,Medium,Risk System,A012,96,Open,Source System
+DQI00627,RPT0046,2025-08-24,Delayed Data,High,ERP,A011,36,Open,Mapping Issue
+DQI00628,RPT0068,2026-08-05,Data Mismatch,Medium,Core Banking,A019,115,Resolved,Unknown
+DQI00629,RPT0030,2025-03-16,Incorrect Values,Medium,Data Warehouse,A003,66,Under Investigation,Unknown
+DQI00630,RPT0090,2026-07-17,Delayed Data,High,ERP,A015,118,Open,Data Entry
+DQI00631,RPT0022,2025-06-05,Delayed Data,Medium,ERP,A025,117,Under Investigation,Mapping Issue
+DQI00632,RPT0035,2024-09-04,Duplicate Records,Low,Core Banking,A001,36,Resolved,Data Entry
+DQI00633,RPT0082,2025-05-09,Data Mismatch,High,CRM,A005,65,Resolved,Mapping Issue
+DQI00634,RPT0043,2026-05-16,Duplicate Records,High,Risk System,A019,81,Under Investigation,Database Issue
+DQI00635,RPT0014,2026-04-28,Data Mismatch,High,HR System,A001,99,Resolved,Mapping Issue
+DQI00636,RPT0021,2025-04-12,Duplicate Records,Medium,Client Database,A010,99,Resolved,Transformation Logic
+DQI00637,RPT0093,2025-04-18,Delayed Data,High,CRM,A010,106,Resolved,Mapping Issue
+DQI00638,RPT0056,2025-03-25,Invalid Format,Low,Client Database,A018,22,Resolved,Database Issue
+DQI00639,RPT0110,2026-06-05,Incorrect Values,Medium,CRM,A001,42,Under Investigation,Mapping Issue
+DQI00640,RPT0106,2025-09-05,Missing Data,High,Client Database,A015,80,Resolved,Mapping Issue
+DQI00641,RPT0027,2026-06-17,Invalid Format,High,Client Database,A007,66,Under Investigation,Source System
+DQI00642,RPT0005,2026-02-11,Delayed Data,Low,ERP,A022,40,Open,Data Entry
+DQI00643,RPT0116,2026-02-02,Duplicate Records,Medium,CRM,A003,47,Open,Data Entry
+DQI00644,RPT0061,2024-11-04,Incorrect Values,Medium,Core Banking,A017,42,Open,Transformation Logic
+DQI00645,RPT0002,2026-06-25,Delayed Data,Medium,HR System,A022,11,Open,Unknown
+DQI00646,RPT0044,2025-02-13,Missing Data,Medium,Data Warehouse,A002,102,Open,Data Entry
+DQI00647,RPT0081,2024-12-02,Delayed Data,Medium,Risk System,A010,93,Resolved,Source System
+DQI00648,RPT0004,2025-04-10,Missing Data,Medium,HR System,A014,101,Open,Source System
+DQI00649,RPT0111,2026-03-20,Null Values,Medium,CRM,A022,88,Open,Transformation Logic
+DQI00650,RPT0052,2025-07-30,Data Mismatch,Critical,CRM,A023,50,Resolved,Data Entry
+DQI00651,RPT0077,2026-04-13,Incorrect Values,Low,Data Warehouse,A023,50,Under Investigation,Source System
+DQI00652,RPT0030,2026-05-23,Incorrect Values,Medium,Risk System,A023,29,Open,Database Issue
+DQI00653,RPT0043,2025-04-26,Incorrect Values,Critical,Risk System,A012,60,Open,Mapping Issue
+DQI00654,RPT0025,2025-03-17,Data Mismatch,High,Core Banking,A025,73,Resolved,Mapping Issue
+DQI00655,RPT0112,2026-03-09,Duplicate Records,Low,Client Database,A018,32,Resolved,Unknown
+DQI00656,RPT0056,2025-07-09,Invalid Format,Low,Client Database,A013,77,Open,Unknown
+DQI00657,RPT0110,2025-12-02,Invalid Format,Low,HR System,A022,102,Resolved,Database Issue
+DQI00658,RPT0072,2026-01-03,Incorrect Values,Medium,CRM,A010,68,Resolved,Data Entry
+DQI00659,RPT0029,2024-10-28,Duplicate Records,Medium,Core Banking,A017,55,Open,Data Entry
+DQI00660,RPT0096,2025-01-12,Duplicate Records,Low,Data Warehouse,A004,104,Under Investigation,Transformation Logic
+DQI00661,RPT0111,2025-07-29,Delayed Data,High,ERP,A006,9,Under Investigation,Unknown
+DQI00662,RPT0003,2025-01-31,Duplicate Records,High,Client Database,A021,114,Under Investigation,Data Entry
+DQI00663,RPT0021,2026-07-30,Missing Data,Low,CRM,A007,89,Open,Unknown
+DQI00664,RPT0078,2026-05-21,Null Values,Low,Client Database,A020,58,Resolved,Source System
+DQI00665,RPT0050,2025-07-02,Incorrect Values,Medium,Risk System,A025,53,Under Investigation,Mapping Issue
+DQI00666,RPT0049,2026-03-18,Duplicate Records,Low,HR System,A007,9,Open,Data Entry
+DQI00667,RPT0057,2025-08-31,Delayed Data,Medium,HR System,A003,27,Under Investigation,Unknown
+DQI00668,RPT0037,2026-04-01,Null Values,Medium,CRM,A008,8,Open,Mapping Issue
+DQI00669,RPT0078,2025-09-25,Data Mismatch,Medium,Core Banking,A019,64,Under Investigation,Unknown
+DQI00670,RPT0093,2026-06-24,Invalid Format,Medium,ERP,A009,18,Under Investigation,Mapping Issue
+DQI00671,RPT0076,2025-06-06,Data Mismatch,Medium,Data Warehouse,A016,12,Open,Data Entry
+DQI00672,RPT0104,2026-05-19,Delayed Data,High,ERP,A001,17,Under Investigation,Data Entry
+DQI00673,RPT0119,2024-10-02,Invalid Format,Low,ERP,A018,5,Under Investigation,Database Issue
+DQI00674,RPT0039,2025-09-24,Incorrect Values,High,ERP,A018,117,Under Investigation,Database Issue
+DQI00675,RPT0058,2026-04-26,Null Values,Low,Data Warehouse,A019,77,Open,Source System
+DQI00676,RPT0063,2024-12-21,Data Mismatch,Low,Core Banking,A025,51,Under Investigation,Database Issue
+DQI00677,RPT0075,2024-10-09,Delayed Data,Medium,Data Warehouse,A020,79,Resolved,Database Issue
+DQI00678,RPT0030,2025-04-18,Delayed Data,High,Client Database,A003,56,Open,Source System
+DQI00679,RPT0075,2026-02-22,Duplicate Records,Medium,CRM,A024,43,Under Investigation,Database Issue
+DQI00680,RPT0037,2025-09-17,Missing Data,Low,Risk System,A010,89,Open,Mapping Issue
+DQI00681,RPT0058,2025-06-29,Data Mismatch,Low,ERP,A012,8,Open,Data Entry
+DQI00682,RPT0072,2024-12-03,Duplicate Records,Low,Data Warehouse,A003,63,Resolved,Database Issue
+DQI00683,RPT0084,2026-04-18,Data Mismatch,Low,ERP,A018,107,Open,Data Entry
+DQI00684,RPT0012,2026-06-12,Data Mismatch,High,Risk System,A020,42,Resolved,Database Issue
+DQI00685,RPT0103,2025-10-01,Incorrect Values,Low,CRM,A008,50,Open,Database Issue
+DQI00686,RPT0004,2026-07-03,Delayed Data,Low,ERP,A011,114,Open,Database Issue
+DQI00687,RPT0015,2025-11-04,Delayed Data,High,HR System,A001,90,Under Investigation,Unknown
+DQI00688,RPT0062,2024-09-11,Delayed Data,Medium,Data Warehouse,A001,65,Under Investigation,Mapping Issue
+DQI00689,RPT0074,2025-01-01,Missing Data,Medium,HR System,A022,26,Under Investigation,Transformation Logic
+DQI00690,RPT0023,2025-01-16,Delayed Data,High,Core Banking,A013,82,Open,Database Issue
+DQI00691,RPT0099,2026-06-30,Data Mismatch,High,Core Banking,A025,90,Under Investigation,Mapping Issue
+DQI00692,RPT0062,2026-05-28,Missing Data,High,Risk System,A016,99,Resolved,Database Issue
+DQI00693,RPT0094,2025-01-22,Data Mismatch,Medium,Data Warehouse,A024,54,Under Investigation,Mapping Issue
+DQI00694,RPT0029,2026-06-01,Duplicate Records,Low,Risk System,A018,103,Open,Transformation Logic
+DQI00695,RPT0002,2024-10-03,Missing Data,High,ERP,A005,32,Under Investigation,Mapping Issue
+DQI00696,RPT0079,2025-03-01,Invalid Format,Low,Client Database,A014,106,Open,Source System
+DQI00697,RPT0047,2024-09-14,Data Mismatch,Medium,Risk System,A009,52,Under Investigation,Mapping Issue
+DQI00698,RPT0029,2025-08-09,Null Values,Medium,Data Warehouse,A010,42,Open,Transformation Logic
+DQI00699,RPT0044,2024-09-28,Delayed Data,High,Core Banking,A004,85,Resolved,Source System
+DQI00700,RPT0007,2026-08-03,Data Mismatch,Medium,Client Database,A021,23,Resolved,Source System
+DQI00701,RPT0079,2025-05-26,Null Values,Medium,ERP,A009,69,Under Investigation,Transformation Logic
+DQI00702,RPT0087,2026-02-18,Missing Data,Medium,Client Database,A006,103,Resolved,Data Entry
+DQI00703,RPT0004,2025-01-21,Data Mismatch,Low,Core Banking,A021,43,Open,Mapping Issue
+DQI00704,RPT0077,2025-03-20,Delayed Data,Medium,CRM,A002,55,Resolved,Database Issue
+DQI00705,RPT0012,2025-06-02,Duplicate Records,Low,Risk System,A011,26,Resolved,Data Entry
+DQI00706,RPT0016,2026-05-21,Incorrect Values,Low,Core Banking,A021,116,Open,Data Entry
+DQI00707,RPT0103,2025-08-15,Incorrect Values,Medium,ERP,A015,90,Open,Database Issue
+DQI00708,RPT0084,2025-09-16,Null Values,Medium,Risk System,A006,13,Open,Mapping Issue
+DQI00709,RPT0074,2025-06-24,Invalid Format,High,HR System,A007,109,Resolved,Transformation Logic
+DQI00710,RPT0108,2025-12-26,Incorrect Values,Low,Client Database,A010,57,Resolved,Source System
+DQI00711,RPT0102,2026-08-06,Incorrect Values,Low,Core Banking,A015,34,Open,Mapping Issue
+DQI00712,RPT0092,2024-11-24,Null Values,Low,HR System,A006,107,Under Investigation,Unknown
+DQI00713,RPT0054,2026-01-31,Missing Data,High,Core Banking,A003,95,Resolved,Transformation Logic
+DQI00714,RPT0082,2024-09-12,Incorrect Values,Low,HR System,A016,10,Resolved,Unknown
+DQI00715,RPT0106,2025-02-23,Data Mismatch,Low,ERP,A007,49,Open,Unknown
+DQI00716,RPT0115,2025-06-05,Incorrect Values,Critical,Core Banking,A010,91,Open,Unknown
+DQI00717,RPT0103,2025-09-03,Null Values,Low,CRM,A008,86,Under Investigation,Data Entry
+DQI00718,RPT0087,2025-11-24,Data Mismatch,Medium,ERP,A014,60,Open,Data Entry
+DQI00719,RPT0078,2025-08-01,Missing Data,Medium,Risk System,A025,113,Under Investigation,Database Issue
+DQI00720,RPT0078,2025-01-04,Delayed Data,Low,CRM,A010,116,Under Investigation,Transformation Logic
+DQI00721,RPT0113,2026-06-27,Duplicate Records,High,Risk System,A021,45,Open,Transformation Logic
+DQI00722,RPT0056,2025-08-23,Invalid Format,Low,ERP,A018,106,Under Investigation,Mapping Issue
+DQI00723,RPT0064,2025-11-18,Invalid Format,High,HR System,A017,2,Resolved,Transformation Logic
+DQI00724,RPT0092,2025-10-22,Delayed Data,High,Data Warehouse,A011,38,Resolved,Transformation Logic
+DQI00725,RPT0006,2025-05-18,Incorrect Values,Medium,Data Warehouse,A022,101,Open,Database Issue
+DQI00726,RPT0041,2025-05-14,Null Values,Low,CRM,A012,96,Under Investigation,Database Issue
+DQI00727,RPT0034,2024-12-25,Duplicate Records,High,CRM,A025,87,Open,Unknown
+DQI00728,RPT0054,2026-06-01,Null Values,High,HR System,A012,36,Resolved,Transformation Logic
+DQI00729,RPT0085,2026-07-15,Delayed Data,Low,HR System,A021,4,Open,Source System
+DQI00730,RPT0045,2025-03-08,Null Values,Low,Risk System,A019,94,Open,Transformation Logic
+DQI00731,RPT0031,2026-03-24,Duplicate Records,Medium,Risk System,A001,44,Resolved,Source System
+DQI00732,RPT0040,2026-05-27,Incorrect Values,Low,ERP,A025,50,Under Investigation,Data Entry
+DQI00733,RPT0017,2026-02-06,Null Values,Low,Client Database,A001,99,Under Investigation,Data Entry
+DQI00734,RPT0075,2024-10-29,Missing Data,Low,ERP,A025,9,Under Investigation,Transformation Logic
+DQI00735,RPT0007,2025-03-29,Incorrect Values,Low,Data Warehouse,A018,120,Open,Transformation Logic
+DQI00736,RPT0088,2024-09-10,Null Values,Low,ERP,A019,45,Resolved,Source System
+DQI00737,RPT0094,2025-06-16,Incorrect Values,Low,Risk System,A021,83,Resolved,Transformation Logic
+DQI00738,RPT0050,2024-09-27,Duplicate Records,Medium,ERP,A001,114,Open,Unknown
+DQI00739,RPT0091,2024-12-24,Invalid Format,Medium,Core Banking,A024,49,Open,Transformation Logic
+DQI00740,RPT0064,2026-06-14,Incorrect Values,High,Core Banking,A013,79,Open,Unknown
+DQI00741,RPT0029,2025-11-07,Delayed Data,High,Risk System,A008,90,Under Investigation,Transformation Logic
+DQI00742,RPT0027,2026-04-17,Null Values,Medium,CRM,A001,39,Under Investigation,Unknown
+DQI00743,RPT0066,2025-02-02,Delayed Data,Medium,Core Banking,A025,66,Open,Database Issue
+DQI00744,RPT0113,2026-06-16,Duplicate Records,Medium,Client Database,A001,102,Under Investigation,Database Issue
+DQI00745,RPT0112,2025-02-07,Duplicate Records,Low,Risk System,A017,94,Resolved,Database Issue
+DQI00746,RPT0088,2026-01-04,Duplicate Records,Medium,Risk System,A003,3,Under Investigation,Database Issue
+DQI00747,RPT0081,2025-02-10,Null Values,Medium,HR System,A019,48,Under Investigation,Database Issue
+DQI00748,RPT0082,2026-01-28,Null Values,Low,HR System,A024,103,Resolved,Mapping Issue
+DQI00749,RPT0054,2025-01-27,Incorrect Values,High,ERP,A022,113,Open,Unknown
+DQI00750,RPT0001,2025-03-17,Invalid Format,Medium,ERP,A006,61,Open,Source System
+DQI00751,RPT0065,2026-01-08,Null Values,High,Data Warehouse,A012,83,Under Investigation,Mapping Issue
+DQI00752,RPT0075,2025-07-04,Missing Data,High,Client Database,A002,103,Under Investigation,Transformation Logic
+DQI00753,RPT0085,2025-09-22,Incorrect Values,Low,ERP,A002,115,Open,Mapping Issue
+DQI00754,RPT0007,2024-09-04,Delayed Data,High,Data Warehouse,A010,118,Resolved,Database Issue
+DQI00755,RPT0034,2026-06-22,Data Mismatch,Low,Client Database,A009,107,Open,Mapping Issue
+DQI00756,RPT0020,2026-04-18,Duplicate Records,Low,Core Banking,A021,7,Open,Data Entry
+DQI00757,RPT0082,2026-04-08,Data Mismatch,Low,CRM,A019,32,Open,Source System
+DQI00758,RPT0096,2026-01-31,Invalid Format,High,HR System,A001,81,Resolved,Source System
+DQI00759,RPT0097,2024-08-26,Null Values,Low,Data Warehouse,A016,27,Resolved,Database Issue
+DQI00760,RPT0095,2025-08-23,Invalid Format,Medium,Data Warehouse,A020,11,Under Investigation,Data Entry
+DQI00761,RPT0082,2026-07-28,Data Mismatch,High,Risk System,A013,12,Open,Unknown
+DQI00762,RPT0004,2024-11-30,Data Mismatch,Medium,Data Warehouse,A023,10,Under Investigation,Transformation Logic
+DQI00763,RPT0054,2026-01-04,Data Mismatch,Low,Core Banking,A005,45,Under Investigation,Unknown
+DQI00764,RPT0088,2025-01-01,Duplicate Records,Low,Risk System,A025,15,Resolved,Source System
+DQI00765,RPT0050,2025-11-29,Missing Data,Medium,CRM,A021,96,Under Investigation,Transformation Logic
+DQI00766,RPT0073,2026-05-04,Incorrect Values,Low,CRM,A002,22,Open,Data Entry
+DQI00767,RPT0113,2024-08-26,Invalid Format,Low,Data Warehouse,A023,51,Under Investigation,Data Entry
+DQI00768,RPT0049,2025-02-09,Missing Data,Low,CRM,A010,72,Resolved,Database Issue
+DQI00769,RPT0051,2025-03-04,Duplicate Records,High,Data Warehouse,A005,14,Resolved,Transformation Logic
+DQI00770,RPT0108,2025-12-05,Incorrect Values,High,HR System,A009,50,Open,Mapping Issue
+DQI00771,RPT0102,2026-05-07,Data Mismatch,Low,Data Warehouse,A002,8,Open,Mapping Issue
+DQI00772,RPT0117,2025-04-14,Duplicate Records,Critical,Data Warehouse,A017,64,Under Investigation,Database Issue
+DQI00773,RPT0070,2026-02-24,Incorrect Values,Low,CRM,A002,17,Resolved,Mapping Issue
+DQI00774,RPT0065,2026-02-21,Delayed Data,Low,HR System,A009,5,Open,Database Issue
+DQI00775,RPT0093,2026-01-01,Null Values,High,CRM,A024,70,Resolved,Unknown
+DQI00776,RPT0045,2025-03-21,Missing Data,Low,Risk System,A013,96,Open,Mapping Issue
+DQI00777,RPT0095,2025-07-15,Invalid Format,Medium,Core Banking,A018,56,Under Investigation,Data Entry
+DQI00778,RPT0076,2026-07-16,Incorrect Values,Medium,CRM,A008,59,Under Investigation,Transformation Logic
+DQI00779,RPT0094,2025-06-08,Data Mismatch,Medium,Core Banking,A021,113,Under Investigation,Unknown
+DQI00780,RPT0120,2026-06-12,Null Values,High,Client Database,A003,64,Resolved,Database Issue
+DQI00781,RPT0075,2025-05-17,Invalid Format,High,Risk System,A021,81,Resolved,Unknown
+DQI00782,RPT0037,2025-08-11,Data Mismatch,High,Client Database,A023,69,Open,Data Entry
+DQI00783,RPT0069,2025-03-03,Null Values,Low,CRM,A010,7,Open,Transformation Logic
+DQI00784,RPT0034,2025-02-05,Duplicate Records,Low,Client Database,A018,5,Resolved,Source System
+DQI00785,RPT0001,2025-08-17,Null Values,High,CRM,A005,6,Open,Mapping Issue
+DQI00786,RPT0045,2025-04-11,Incorrect Values,Low,ERP,A023,59,Under Investigation,Mapping Issue
+DQI00787,RPT0012,2026-01-27,Null Values,High,Data Warehouse,A007,93,Under Investigation,Transformation Logic
+DQI00788,RPT0110,2025-09-28,Missing Data,Low,Risk System,A005,62,Under Investigation,Transformation Logic
+DQI00789,RPT0045,2026-05-22,Null Values,Low,Client Database,A006,105,Resolved,Mapping Issue
+DQI00790,RPT0029,2025-12-17,Duplicate Records,High,HR System,A008,51,Resolved,Database Issue
+DQI00791,RPT0096,2025-06-24,Missing Data,High,Core Banking,A018,102,Under Investigation,Unknown
+DQI00792,RPT0092,2025-11-16,Invalid Format,Low,Data Warehouse,A023,67,Resolved,Source System
+DQI00793,RPT0003,2024-11-07,Incorrect Values,Low,Core Banking,A010,66,Under Investigation,Transformation Logic
+DQI00794,RPT0107,2024-08-25,Incorrect Values,Low,Risk System,A015,89,Open,Transformation Logic
+DQI00795,RPT0014,2025-09-21,Duplicate Records,Low,HR System,A013,58,Under Investigation,Source System
+DQI00796,RPT0013,2026-01-16,Delayed Data,Low,Risk System,A022,117,Open,Mapping Issue
+DQI00797,RPT0048,2026-06-05,Duplicate Records,High,ERP,A003,118,Open,Transformation Logic
+DQI00798,RPT0106,2026-06-02,Data Mismatch,High,HR System,A015,27,Resolved,Source System
+DQI00799,RPT0120,2025-06-06,Null Values,Low,Data Warehouse,A018,2,Open,Database Issue
+DQI00800,RPT0095,2025-10-30,Incorrect Values,Medium,Risk System,A010,55,Resolved,Data Entry
+DQI00801,RPT0112,2026-01-04,Duplicate Records,Medium,Client Database,A010,46,Open,Database Issue
+DQI00802,RPT0060,2025-11-24,Duplicate Records,Medium,Core Banking,A006,83,Open,Transformation Logic
+DQI00803,RPT0049,2025-12-06,Data Mismatch,Low,Client Database,A019,120,Under Investigation,Unknown
+DQI00804,RPT0104,2025-03-27,Invalid Format,Medium,Risk System,A008,63,Under Investigation,Database Issue
+DQI00805,RPT0116,2025-04-08,Data Mismatch,Medium,Data Warehouse,A002,82,Resolved,Unknown
+DQI00806,RPT0032,2026-02-02,Invalid Format,Low,HR System,A016,85,Under Investigation,Source System
+DQI00807,RPT0003,2024-11-11,Invalid Format,Low,Client Database,A012,94,Under Investigation,Unknown
+DQI00808,RPT0102,2025-08-29,Invalid Format,Critical,HR System,A003,58,Open,Unknown
+DQI00809,RPT0079,2024-10-08,Missing Data,Critical,Data Warehouse,A024,81,Under Investigation,Unknown
+DQI00810,RPT0008,2025-05-08,Duplicate Records,Medium,HR System,A010,30,Open,Mapping Issue
+DQI00811,RPT0054,2025-03-22,Invalid Format,Low,CRM,A023,77,Resolved,Data Entry
+DQI00812,RPT0091,2025-12-30,Invalid Format,Medium,Core Banking,A022,79,Under Investigation,Unknown
+DQI00813,RPT0100,2025-04-29,Duplicate Records,High,Client Database,A025,104,Open,Source System
+DQI00814,RPT0105,2026-06-20,Null Values,Medium,Client Database,A022,89,Resolved,Mapping Issue
+DQI00815,RPT0066,2025-03-23,Invalid Format,Low,CRM,A011,99,Under Investigation,Unknown
+DQI00816,RPT0085,2025-03-10,Data Mismatch,Medium,Risk System,A007,8,Resolved,Database Issue
+DQI00817,RPT0082,2026-01-11,Incorrect Values,Medium,Client Database,A007,12,Open,Transformation Logic
+DQI00818,RPT0053,2026-02-23,Delayed Data,Low,ERP,A011,28,Open,Database Issue
+DQI00819,RPT0057,2026-07-14,Delayed Data,Low,Client Database,A021,65,Resolved,Data Entry
+DQI00820,RPT0090,2026-01-08,Incorrect Values,Medium,Core Banking,A004,117,Under Investigation,Mapping Issue
+DQI00821,RPT0103,2025-04-09,Duplicate Records,Medium,Client Database,A016,14,Under Investigation,Data Entry
+DQI00822,RPT0037,2025-01-13,Delayed Data,Low,Data Warehouse,A010,54,Resolved,Database Issue
+DQI00823,RPT0068,2024-12-14,Duplicate Records,Medium,ERP,A024,52,Open,Database Issue
+DQI00824,RPT0082,2025-09-25,Delayed Data,Medium,ERP,A019,94,Open,Source System
+DQI00825,RPT0091,2026-04-06,Duplicate Records,Medium,Client Database,A002,73,Under Investigation,Data Entry
+DQI00826,RPT0020,2025-02-22,Delayed Data,Low,Data Warehouse,A005,103,Open,Mapping Issue
+DQI00827,RPT0111,2026-07-19,Duplicate Records,High,ERP,A011,15,Under Investigation,Source System
+DQI00828,RPT0072,2024-10-03,Null Values,Low,Data Warehouse,A013,109,Open,Transformation Logic
+DQI00829,RPT0014,2026-05-07,Incorrect Values,Low,Client Database,A015,104,Under Investigation,Data Entry
+DQI00830,RPT0044,2026-06-16,Data Mismatch,Low,HR System,A006,56,Resolved,Data Entry
+DQI00831,RPT0067,2026-05-05,Delayed Data,Medium,Risk System,A011,53,Resolved,Mapping Issue
+DQI00832,RPT0048,2026-05-11,Missing Data,Medium,CRM,A015,63,Resolved,Transformation Logic
+DQI00833,RPT0081,2025-11-29,Invalid Format,Medium,Client Database,A010,20,Open,Data Entry
+DQI00834,RPT0081,2025-06-29,Missing Data,Medium,Risk System,A011,93,Resolved,Unknown
+DQI00835,RPT0057,2026-01-15,Null Values,Low,Core Banking,A022,115,Open,Unknown
+DQI00836,RPT0054,2025-04-25,Missing Data,Medium,Data Warehouse,A010,64,Under Investigation,Mapping Issue
+DQI00837,RPT0070,2026-01-30,Missing Data,Medium,HR System,A008,30,Resolved,Transformation Logic
+DQI00838,RPT0069,2024-12-06,Missing Data,Medium,Risk System,A008,65,Resolved,Data Entry
+DQI00839,RPT0082,2026-03-03,Delayed Data,Medium,Risk System,A005,24,Open,Data Entry
+DQI00840,RPT0097,2024-09-08,Null Values,Low,Client Database,A018,104,Resolved,Mapping Issue
+DQI00841,RPT0113,2026-01-11,Invalid Format,High,Core Banking,A008,26,Open,Source System
+DQI00842,RPT0046,2025-09-10,Invalid Format,Medium,Core Banking,A014,108,Resolved,Data Entry
+DQI00843,RPT0075,2025-04-06,Invalid Format,Low,HR System,A004,100,Resolved,Unknown
+DQI00844,RPT0060,2025-03-09,Invalid Format,Low,Risk System,A008,101,Under Investigation,Unknown
+DQI00845,RPT0022,2026-07-25,Missing Data,Medium,Risk System,A019,82,Under Investigation,Unknown
+DQI00846,RPT0067,2025-07-11,Null Values,Low,Core Banking,A010,42,Under Investigation,Unknown
+DQI00847,RPT0059,2025-06-30,Missing Data,Low,Data Warehouse,A003,19,Resolved,Mapping Issue
+DQI00848,RPT0118,2025-06-17,Invalid Format,Critical,Core Banking,A013,15,Under Investigation,Database Issue
+DQI00849,RPT0107,2026-03-15,Duplicate Records,Critical,Client Database,A001,107,Under Investigation,Source System
+DQI00850,RPT0063,2024-09-16,Incorrect Values,Medium,Client Database,A009,36,Resolved,Database Issue
+DQI00851,RPT0102,2025-11-15,Duplicate Records,Low,Risk System,A025,5,Under Investigation,Database Issue
+DQI00852,RPT0082,2026-02-20,Duplicate Records,Medium,CRM,A013,74,Open,Source System
+DQI00853,RPT0042,2025-11-07,Null Values,Medium,Client Database,A024,51,Open,Source System
+DQI00854,RPT0060,2026-05-15,Delayed Data,Low,Data Warehouse,A009,33,Open,Transformation Logic
+DQI00855,RPT0072,2025-01-14,Invalid Format,High,Data Warehouse,A005,42,Under Investigation,Source System
+DQI00856,RPT0113,2025-05-13,Duplicate Records,High,Data Warehouse,A011,72,Open,Transformation Logic
+DQI00857,RPT0071,2026-03-07,Missing Data,Critical,CRM,A012,3,Under Investigation,Database Issue
+DQI00858,RPT0111,2026-02-25,Null Values,Low,Client Database,A025,17,Under Investigation,Database Issue
+DQI00859,RPT0001,2025-02-08,Invalid Format,Low,CRM,A011,33,Resolved,Mapping Issue
+DQI00860,RPT0111,2026-02-04,Delayed Data,Medium,Client Database,A024,52,Open,Unknown
+DQI00861,RPT0109,2025-10-09,Invalid Format,Low,HR System,A005,85,Resolved,Transformation Logic
+DQI00862,RPT0110,2025-12-28,Missing Data,Low,Client Database,A003,9,Open,Database Issue
+DQI00863,RPT0112,2026-04-21,Duplicate Records,Medium,HR System,A019,28,Open,Mapping Issue
+DQI00864,RPT0015,2025-08-24,Data Mismatch,High,Core Banking,A009,23,Resolved,Data Entry
+DQI00865,RPT0075,2026-07-25,Invalid Format,High,Client Database,A002,10,Open,Source System
+DQI00866,RPT0017,2026-08-20,Invalid Format,High,Data Warehouse,A024,116,Resolved,Database Issue
+DQI00867,RPT0089,2026-01-23,Null Values,Medium,Client Database,A010,107,Resolved,Unknown
+DQI00868,RPT0069,2025-05-25,Duplicate Records,Medium,Risk System,A008,44,Open,Database Issue
+DQI00869,RPT0072,2025-09-18,Data Mismatch,Low,Client Database,A025,27,Under Investigation,Database Issue
+DQI00870,RPT0079,2025-04-10,Invalid Format,Medium,Core Banking,A012,36,Under Investigation,Source System
+DQI00871,RPT0100,2026-06-07,Duplicate Records,Low,HR System,A008,100,Resolved,Data Entry
+DQI00872,RPT0045,2024-12-30,Delayed Data,Medium,Data Warehouse,A005,66,Under Investigation,Unknown
+DQI00873,RPT0028,2026-06-03,Data Mismatch,Low,HR System,A017,85,Under Investigation,Source System
+DQI00874,RPT0077,2026-01-12,Missing Data,High,CRM,A012,86,Open,Database Issue
+DQI00875,RPT0090,2026-07-01,Duplicate Records,Medium,HR System,A005,4,Under Investigation,Mapping Issue
+DQI00876,RPT0077,2025-10-27,Invalid Format,Low,HR System,A025,76,Resolved,Unknown
+DQI00877,RPT0009,2025-01-07,Delayed Data,High,Data Warehouse,A015,40,Under Investigation,Data Entry
+DQI00878,RPT0006,2025-04-05,Duplicate Records,Medium,ERP,A015,85,Under Investigation,Database Issue
+DQI00879,RPT0013,2024-11-03,Invalid Format,Medium,Core Banking,A011,90,Open,Database Issue
+DQI00880,RPT0079,2025-08-20,Missing Data,Low,CRM,A016,73,Under Investigation,Transformation Logic
+DQI00881,RPT0067,2024-11-27,Incorrect Values,Medium,Core Banking,A018,102,Under Investigation,Mapping Issue
+DQI00882,RPT0108,2026-03-18,Incorrect Values,Low,CRM,A019,7,Resolved,Mapping Issue
+DQI00883,RPT0051,2025-03-08,Null Values,Low,Core Banking,A024,68,Under Investigation,Source System
+DQI00884,RPT0024,2026-03-06,Data Mismatch,Critical,CRM,A002,86,Under Investigation,Unknown
+DQI00885,RPT0103,2026-05-09,Incorrect Values,Medium,CRM,A003,60,Under Investigation,Mapping Issue
+DQI00886,RPT0085,2025-10-28,Duplicate Records,Low,HR System,A011,99,Open,Data Entry
+DQI00887,RPT0079,2026-04-04,Invalid Format,Medium,ERP,A011,118,Open,Unknown
+DQI00888,RPT0054,2026-07-29,Null Values,High,Client Database,A001,83,Under Investigation,Unknown
+DQI00889,RPT0077,2025-01-09,Data Mismatch,Medium,HR System,A001,106,Resolved,Source System
+DQI00890,RPT0015,2026-01-29,Invalid Format,Low,ERP,A025,73,Resolved,Mapping Issue
+DQI00891,RPT0024,2026-07-19,Incorrect Values,High,Core Banking,A020,92,Under Investigation,Unknown
+DQI00892,RPT0005,2025-05-07,Data Mismatch,Low,CRM,A005,88,Open,Source System
+DQI00893,RPT0115,2026-01-10,Missing Data,Medium,HR System,A015,52,Resolved,Data Entry
+DQI00894,RPT0007,2024-10-28,Null Values,Medium,Client Database,A012,56,Open,Unknown
+DQI00895,RPT0037,2025-02-08,Duplicate Records,Medium,Client Database,A016,109,Open,Data Entry
+DQI00896,RPT0007,2025-05-22,Duplicate Records,Medium,HR System,A018,116,Resolved,Data Entry
+DQI00897,RPT0078,2025-02-09,Invalid Format,Medium,CRM,A020,70,Resolved,Unknown
+DQI00898,RPT0107,2026-03-21,Invalid Format,Low,Data Warehouse,A008,90,Open,Unknown
+DQI00899,RPT0087,2026-06-27,Invalid Format,Medium,CRM,A017,100,Resolved,Data Entry
+DQI00900,RPT0087,2025-04-15,Duplicate Records,High,ERP,A006,7,Resolved,Source System
+DQI00901,RPT0062,2025-07-12,Null Values,Low,Core Banking,A015,74,Resolved,Transformation Logic
+DQI00902,RPT0072,2026-04-24,Null Values,Critical,Risk System,A021,57,Resolved,Database Issue
+DQI00903,RPT0058,2026-07-09,Data Mismatch,High,Core Banking,A024,46,Open,Data Entry
+DQI00904,RPT0072,2025-05-04,Delayed Data,Low,Core Banking,A013,54,Under Investigation,Data Entry
+DQI00905,RPT0050,2025-06-04,Data Mismatch,Low,Core Banking,A017,99,Open,Database Issue
+DQI00906,RPT0112,2025-03-10,Data Mismatch,Low,Client Database,A016,41,Resolved,Transformation Logic
+DQI00907,RPT0044,2025-11-17,Missing Data,Low,Core Banking,A009,24,Open,Unknown
+DQI00908,RPT0031,2025-04-05,Null Values,Low,Core Banking,A015,33,Under Investigation,Database Issue
+DQI00909,RPT0082,2025-08-15,Delayed Data,Low,HR System,A017,35,Open,Data Entry
+DQI00910,RPT0016,2026-06-12,Incorrect Values,Medium,HR System,A023,106,Open,Data Entry
+DQI00911,RPT0050,2024-11-19,Invalid Format,Low,ERP,A025,97,Resolved,Mapping Issue
+DQI00912,RPT0043,2025-08-20,Delayed Data,Low,HR System,A004,118,Resolved,Database Issue
+DQI00913,RPT0016,2024-09-30,Data Mismatch,Low,ERP,A018,84,Under Investigation,Mapping Issue
+DQI00914,RPT0079,2026-06-23,Incorrect Values,High,Core Banking,A011,85,Under Investigation,Data Entry
+DQI00915,RPT0014,2025-12-25,Delayed Data,Low,HR System,A007,69,Resolved,Unknown
+DQI00916,RPT0086,2025-11-16,Missing Data,Low,Client Database,A015,80,Open,Unknown
+DQI00917,RPT0111,2025-11-13,Delayed Data,Low,CRM,A023,2,Under Investigation,Mapping Issue
+DQI00918,RPT0038,2025-12-15,Null Values,Medium,Risk System,A007,60,Open,Source System
+DQI00919,RPT0001,2024-10-14,Delayed Data,High,Risk System,A019,81,Under Investigation,Data Entry
+DQI00920,RPT0034,2025-08-21,Data Mismatch,Medium,ERP,A022,14,Open,Database Issue
+DQI00921,RPT0078,2026-07-11,Data Mismatch,High,ERP,A021,34,Open,Mapping Issue
+DQI00922,RPT0075,2025-01-18,Delayed Data,Medium,ERP,A023,70,Under Investigation,Mapping Issue
+DQI00923,RPT0012,2025-09-12,Invalid Format,Low,HR System,A017,96,Under Investigation,Mapping Issue
+DQI00924,RPT0094,2024-11-21,Data Mismatch,High,Core Banking,A017,41,Under Investigation,Source System
+DQI00925,RPT0102,2026-06-24,Duplicate Records,Medium,Client Database,A014,12,Under Investigation,Data Entry
+DQI00926,RPT0089,2026-01-30,Missing Data,Low,Data Warehouse,A019,117,Under Investigation,Source System
+DQI00927,RPT0042,2025-06-12,Missing Data,Medium,ERP,A022,112,Resolved,Transformation Logic
+DQI00928,RPT0041,2025-10-05,Missing Data,Critical,HR System,A016,49,Open,Source System
+DQI00929,RPT0069,2025-04-08,Invalid Format,Low,Risk System,A010,104,Open,Database Issue
+DQI00930,RPT0055,2025-07-06,Null Values,Medium,Client Database,A011,58,Open,Database Issue
+DQI00931,RPT0022,2024-09-30,Missing Data,High,Data Warehouse,A017,83,Resolved,Transformation Logic
+DQI00932,RPT0058,2026-06-27,Delayed Data,Low,Risk System,A007,32,Resolved,Database Issue
+DQI00933,RPT0075,2026-06-14,Duplicate Records,Medium,Core Banking,A004,46,Resolved,Unknown
+DQI00934,RPT0042,2024-12-15,Invalid Format,Low,Client Database,A023,35,Resolved,Transformation Logic
+DQI00935,RPT0067,2024-12-04,Incorrect Values,Low,CRM,A024,90,Resolved,Data Entry
+DQI00936,RPT0010,2025-01-22,Null Values,Low,CRM,A025,65,Open,Transformation Logic
+DQI00937,RPT0099,2025-05-13,Data Mismatch,High,ERP,A011,36,Resolved,Data Entry
+DQI00938,RPT0053,2025-07-03,Delayed Data,Medium,ERP,A005,107,Open,Unknown
+DQI00939,RPT0060,2025-11-05,Duplicate Records,Low,Core Banking,A021,14,Resolved,Transformation Logic
+DQI00940,RPT0049,2026-07-14,Missing Data,Medium,CRM,A025,7,Under Investigation,Mapping Issue
+DQI00941,RPT0036,2026-07-25,Null Values,Medium,ERP,A007,39,Open,Unknown
+DQI00942,RPT0114,2025-08-10,Duplicate Records,Medium,HR System,A013,85,Resolved,Transformation Logic
+DQI00943,RPT0010,2024-12-09,Data Mismatch,Medium,HR System,A013,37,Under Investigation,Transformation Logic
+DQI00944,RPT0064,2025-04-22,Delayed Data,Medium,CRM,A006,86,Open,Transformation Logic
+DQI00945,RPT0113,2026-06-20,Invalid Format,Low,CRM,A009,94,Under Investigation,Unknown
+DQI00946,RPT0110,2026-02-26,Duplicate Records,Critical,Risk System,A004,46,Open,Transformation Logic
+DQI00947,RPT0119,2025-01-07,Invalid Format,Medium,Client Database,A012,50,Resolved,Data Entry
+DQI00948,RPT0040,2026-04-17,Null Values,Medium,Client Database,A012,86,Resolved,Mapping Issue
+DQI00949,RPT0106,2024-10-21,Null Values,Low,HR System,A008,20,Open,Data Entry
+DQI00950,RPT0022,2025-09-02,Duplicate Records,Medium,Core Banking,A002,114,Open,Unknown
+DQI00951,RPT0115,2025-05-05,Null Values,High,ERP,A002,106,Open,Source System
+DQI00952,RPT0003,2025-12-23,Duplicate Records,Critical,CRM,A009,80,Open,Unknown
+DQI00953,RPT0061,2025-01-04,Delayed Data,Medium,Core Banking,A021,19,Resolved,Transformation Logic
+DQI00954,RPT0005,2025-04-20,Delayed Data,Low,Risk System,A012,64,Open,Database Issue
+DQI00955,RPT0029,2025-12-25,Invalid Format,High,Core Banking,A012,30,Open,Mapping Issue
+DQI00956,RPT0072,2024-10-04,Incorrect Values,Low,CRM,A017,77,Resolved,Database Issue
+DQI00957,RPT0073,2024-08-23,Duplicate Records,Low,Risk System,A015,80,Open,Database Issue
+DQI00958,RPT0006,2025-08-06,Delayed Data,High,CRM,A012,73,Under Investigation,Data Entry
+DQI00959,RPT0111,2025-03-20,Duplicate Records,Medium,Risk System,A007,107,Under Investigation,Source System
+DQI00960,RPT0052,2025-01-29,Invalid Format,Medium,HR System,A013,18,Resolved,Database Issue
+DQI00961,RPT0033,2026-04-03,Missing Data,Medium,Data Warehouse,A012,40,Resolved,Source System
+DQI00962,RPT0043,2026-04-12,Incorrect Values,Medium,Data Warehouse,A022,3,Open,Data Entry
+DQI00963,RPT0098,2024-12-28,Delayed Data,High,Client Database,A021,78,Under Investigation,Source System
+DQI00964,RPT0120,2025-11-10,Incorrect Values,Medium,Data Warehouse,A019,70,Open,Unknown
+DQI00965,RPT0026,2026-04-05,Duplicate Records,Medium,ERP,A010,22,Resolved,Source System
+DQI00966,RPT0052,2024-12-21,Missing Data,Low,ERP,A023,9,Resolved,Database Issue
+DQI00967,RPT0055,2025-09-04,Missing Data,Low,Risk System,A019,107,Open,Source System
+DQI00968,RPT0098,2026-04-21,Duplicate Records,Medium,ERP,A011,50,Under Investigation,Source System
+DQI00969,RPT0012,2026-04-05,Null Values,High,Risk System,A010,104,Under Investigation,Transformation Logic
+DQI00970,RPT0071,2026-04-17,Null Values,High,Data Warehouse,A004,21,Resolved,Transformation Logic
+DQI00971,RPT0087,2024-10-27,Delayed Data,Low,Risk System,A025,54,Resolved,Data Entry
+DQI00972,RPT0082,2024-11-28,Null Values,Low,Core Banking,A011,18,Open,Transformation Logic
+DQI00973,RPT0020,2025-12-10,Invalid Format,Low,ERP,A010,78,Resolved,Source System
+DQI00974,RPT0100,2025-07-22,Invalid Format,Low,HR System,A002,18,Resolved,Source System
+DQI00975,RPT0068,2025-12-25,Duplicate Records,Low,Client Database,A006,59,Under Investigation,Unknown
+DQI00976,RPT0031,2025-07-19,Incorrect Values,Medium,Core Banking,A002,86,Under Investigation,Database Issue
+DQI00977,RPT0092,2025-06-29,Delayed Data,High,ERP,A011,14,Resolved,Transformation Logic
+DQI00978,RPT0082,2025-07-19,Data Mismatch,Medium,Data Warehouse,A014,16,Resolved,Database Issue
+DQI00979,RPT0067,2025-08-25,Invalid Format,Low,Core Banking,A014,91,Under Investigation,Mapping Issue
+DQI00980,RPT0116,2025-06-13,Incorrect Values,High,Risk System,A018,9,Under Investigation,Mapping Issue
+DQI00981,RPT0049,2024-08-23,Incorrect Values,Medium,CRM,A009,29,Resolved,Database Issue
+DQI00982,RPT0006,2024-09-18,Invalid Format,Low,Client Database,A002,61,Open,Transformation Logic
+DQI00983,RPT0008,2025-10-08,Duplicate Records,High,ERP,A016,50,Resolved,Source System
+DQI00984,RPT0061,2025-01-21,Incorrect Values,Medium,Risk System,A024,56,Resolved,Mapping Issue
+DQI00985,RPT0100,2026-03-10,Invalid Format,Low,ERP,A014,119,Resolved,Database Issue
+DQI00986,RPT0077,2025-06-05,Incorrect Values,Low,HR System,A018,105,Under Investigation,Mapping Issue
+DQI00987,RPT0026,2024-08-30,Null Values,Medium,Client Database,A024,60,Under Investigation,Transformation Logic
+DQI00988,RPT0020,2026-07-13,Duplicate Records,Medium,CRM,A009,66,Open,Transformation Logic
+DQI00989,RPT0021,2025-04-27,Duplicate Records,Medium,Client Database,A008,25,Resolved,Database Issue
+DQI00990,RPT0065,2026-03-30,Missing Data,Medium,Core Banking,A006,27,Under Investigation,Transformation Logic
+DQI00991,RPT0050,2026-05-29,Delayed Data,Low,ERP,A016,5,Under Investigation,Source System
+DQI00992,RPT0038,2025-10-06,Null Values,High,Risk System,A002,92,Under Investigation,Unknown
+DQI00993,RPT0010,2025-01-15,Incorrect Values,Low,ERP,A010,40,Open,Transformation Logic
+DQI00994,RPT0104,2024-09-02,Duplicate Records,Low,Core Banking,A013,34,Open,Unknown
+DQI00995,RPT0083,2026-01-27,Invalid Format,Low,Client Database,A008,107,Under Investigation,Unknown
+DQI00996,RPT0083,2024-08-23,Null Values,Low,Core Banking,A002,91,Open,Mapping Issue
+DQI00997,RPT0089,2025-12-19,Invalid Format,High,ERP,A007,80,Under Investigation,Mapping Issue
+DQI00998,RPT0026,2026-03-12,Incorrect Values,Low,Risk System,A011,120,Under Investigation,Unknown
+DQI00999,RPT0027,2025-03-01,Null Values,High,HR System,A017,31,Open,Database Issue
+DQI01000,RPT0101,2025-02-11,Delayed Data,Medium,Client Database,A003,48,Under Investigation,Database Issue
+DQI01001,RPT0005,2026-02-09,Duplicate Records,Low,Client Database,A021,99,Under Investigation,Data Entry
+DQI01002,RPT0074,2026-07-02,Data Mismatch,Low,Core Banking,A002,48,Under Investigation,Unknown
+DQI01003,RPT0117,2025-05-14,Incorrect Values,Critical,Data Warehouse,A005,105,Resolved,Transformation Logic
+DQI01004,RPT0002,2025-04-19,Invalid Format,Medium,CRM,A016,26,Resolved,Database Issue
+DQI01005,RPT0056,2024-11-28,Missing Data,Medium,Client Database,A010,73,Under Investigation,Data Entry
+DQI01006,RPT0060,2024-11-07,Data Mismatch,Medium,HR System,A021,38,Open,Transformation Logic
+DQI01007,RPT0071,2025-06-13,Missing Data,Medium,ERP,A024,36,Open,Unknown
+DQI01008,RPT0072,2025-09-14,Incorrect Values,Medium,HR System,A025,7,Open,Database Issue
+DQI01009,RPT0059,2025-11-20,Null Values,Low,Risk System,A022,19,Resolved,Unknown
+DQI01010,RPT0087,2025-04-14,Null Values,Low,HR System,A012,18,Under Investigation,Unknown
+DQI01011,RPT0102,2024-12-27,Invalid Format,Medium,CRM,A024,15,Under Investigation,Source System
+DQI01012,RPT0046,2024-10-09,Null Values,High,HR System,A014,49,Resolved,Unknown
+DQI01013,RPT0055,2026-05-21,Missing Data,Low,HR System,A014,20,Open,Mapping Issue
+DQI01014,RPT0101,2024-09-24,Delayed Data,High,HR System,A019,5,Open,Source System
+DQI01015,RPT0039,2025-04-08,Delayed Data,Medium,Data Warehouse,A002,53,Resolved,Transformation Logic
+DQI01016,RPT0108,2025-04-02,Incorrect Values,Medium,Core Banking,A025,23,Open,Transformation Logic
+DQI01017,RPT0056,2025-08-09,Duplicate Records,Critical,Core Banking,A009,5,Under Investigation,Unknown
+DQI01018,RPT0009,2026-03-08,Data Mismatch,Low,Core Banking,A008,83,Open,Source System
+DQI01019,RPT0107,2025-09-28,Null Values,Medium,ERP,A016,100,Resolved,Data Entry
+DQI01020,RPT0035,2025-11-26,Null Values,Low,ERP,A004,93,Resolved,Database Issue
+DQI01021,RPT0120,2025-10-01,Invalid Format,Low,Data Warehouse,A018,109,Resolved,Unknown
+DQI01022,RPT0115,2025-05-09,Delayed Data,High,HR System,A012,118,Resolved,Unknown
+DQI01023,RPT0024,2025-07-22,Missing Data,Critical,ERP,A012,97,Resolved,Unknown
+DQI01024,RPT0076,2026-07-10,Data Mismatch,High,Data Warehouse,A010,37,Open,Database Issue
+DQI01025,RPT0084,2026-02-04,Data Mismatch,Medium,HR System,A022,58,Open,Data Entry
+DQI01026,RPT0081,2024-12-01,Delayed Data,Low,Risk System,A008,54,Resolved,Mapping Issue
+DQI01027,RPT0059,2025-05-13,Invalid Format,Critical,Client Database,A003,5,Under Investigation,Source System
+DQI01028,RPT0014,2026-07-21,Invalid Format,Medium,ERP,A010,6,Open,Database Issue
+DQI01029,RPT0078,2025-09-04,Incorrect Values,High,HR System,A010,52,Resolved,Source System
+DQI01030,RPT0040,2025-05-26,Delayed Data,Low,HR System,A019,63,Under Investigation,Source System
+DQI01031,RPT0009,2026-03-25,Incorrect Values,Low,Risk System,A002,76,Under Investigation,Unknown
+DQI01032,RPT0025,2025-01-13,Duplicate Records,Low,HR System,A003,91,Under Investigation,Data Entry
+DQI01033,RPT0037,2024-12-26,Duplicate Records,High,Client Database,A020,5,Resolved,Source System
+DQI01034,RPT0008,2026-07-25,Data Mismatch,Medium,Core Banking,A003,39,Resolved,Source System
+DQI01035,RPT0109,2026-08-03,Missing Data,Low,Core Banking,A022,87,Resolved,Source System
+DQI01036,RPT0101,2026-05-12,Incorrect Values,Low,CRM,A007,49,Resolved,Data Entry
+DQI01037,RPT0071,2025-06-29,Delayed Data,Medium,Core Banking,A002,60,Open,Mapping Issue
+DQI01038,RPT0104,2024-09-03,Data Mismatch,Low,Core Banking,A021,58,Resolved,Data Entry
+DQI01039,RPT0045,2025-02-13,Delayed Data,Low,CRM,A011,31,Open,Source System
+DQI01040,RPT0093,2025-02-10,Missing Data,Medium,ERP,A015,36,Open,Source System
+DQI01041,RPT0100,2026-03-07,Missing Data,Medium,ERP,A018,45,Open,Source System
+DQI01042,RPT0016,2024-11-29,Incorrect Values,Low,CRM,A023,17,Open,Transformation Logic
+DQI01043,RPT0013,2025-01-31,Data Mismatch,High,Core Banking,A007,110,Open,Database Issue
+DQI01044,RPT0051,2026-03-13,Missing Data,Low,CRM,A021,6,Open,Data Entry
+DQI01045,RPT0112,2024-09-06,Incorrect Values,Low,Data Warehouse,A006,91,Open,Data Entry
+DQI01046,RPT0005,2025-11-21,Null Values,Low,Data Warehouse,A007,91,Open,Source System
+DQI01047,RPT0019,2025-09-15,Missing Data,Low,Core Banking,A024,58,Resolved,Database Issue
+DQI01048,RPT0105,2024-12-29,Incorrect Values,Medium,HR System,A024,43,Resolved,Data Entry
+DQI01049,RPT0056,2024-11-23,Delayed Data,High,HR System,A002,68,Under Investigation,Database Issue
+DQI01050,RPT0041,2025-05-31,Delayed Data,Medium,Risk System,A008,18,Resolved,Mapping Issue
+DQI01051,RPT0119,2026-02-23,Invalid Format,Low,Client Database,A024,3,Under Investigation,Database Issue
+DQI01052,RPT0107,2026-01-07,Null Values,Medium,Risk System,A019,11,Resolved,Unknown
+DQI01053,RPT0004,2026-04-27,Null Values,High,Risk System,A020,9,Under Investigation,Unknown
+DQI01054,RPT0093,2024-09-18,Duplicate Records,Medium,Risk System,A020,108,Open,Unknown
+DQI01055,RPT0018,2025-06-07,Null Values,Low,HR System,A023,77,Under Investigation,Transformation Logic
+DQI01056,RPT0116,2026-07-01,Data Mismatch,Medium,Core Banking,A024,111,Resolved,Data Entry
+DQI01057,RPT0033,2025-12-30,Null Values,Medium,Client Database,A005,117,Open,Data Entry
+DQI01058,RPT0043,2025-03-06,Incorrect Values,Medium,Risk System,A002,92,Resolved,Mapping Issue
+DQI01059,RPT0062,2026-04-11,Invalid Format,Medium,ERP,A018,24,Under Investigation,Mapping Issue
+DQI01060,RPT0108,2025-10-09,Null Values,Medium,Data Warehouse,A009,52,Under Investigation,Source System
+DQI01061,RPT0009,2025-12-17,Missing Data,High,Risk System,A006,44,Under Investigation,Unknown
+DQI01062,RPT0060,2024-09-26,Invalid Format,Medium,ERP,A009,114,Resolved,Source System
+DQI01063,RPT0064,2025-11-24,Data Mismatch,Medium,Client Database,A017,62,Resolved,Unknown
+DQI01064,RPT0009,2024-09-26,Data Mismatch,Medium,CRM,A016,66,Resolved,Database Issue
+DQI01065,RPT0007,2026-01-16,Duplicate Records,Medium,Client Database,A020,34,Resolved,Unknown
+DQI01066,RPT0111,2024-11-11,Invalid Format,Medium,ERP,A007,90,Under Investigation,Source System
+DQI01067,RPT0023,2026-01-09,Data Mismatch,Critical,CRM,A018,75,Resolved,Unknown
+DQI01068,RPT0011,2026-05-31,Data Mismatch,Low,Risk System,A023,51,Open,Unknown
+DQI01069,RPT0106,2024-09-04,Missing Data,Low,ERP,A019,59,Open,Unknown
+DQI01070,RPT0083,2024-09-26,Duplicate Records,Low,Risk System,A013,50,Resolved,Unknown
+DQI01071,RPT0076,2026-02-06,Null Values,Medium,Data Warehouse,A025,55,Resolved,Source System
+DQI01072,RPT0035,2024-11-17,Missing Data,High,CRM,A022,72,Resolved,Database Issue
+DQI01073,RPT0085,2025-07-09,Delayed Data,Low,HR System,A022,25,Open,Mapping Issue
+DQI01074,RPT0053,2025-07-31,Duplicate Records,High,CRM,A025,98,Under Investigation,Mapping Issue
+DQI01075,RPT0028,2025-06-11,Null Values,Low,Risk System,A019,28,Under Investigation,Unknown
+DQI01076,RPT0051,2024-11-23,Missing Data,Critical,HR System,A013,52,Under Investigation,Mapping Issue
+DQI01077,RPT0044,2025-10-19,Null Values,Medium,Core Banking,A001,93,Under Investigation,Unknown
+DQI01078,RPT0107,2025-03-04,Missing Data,Low,CRM,A022,45,Under Investigation,Source System
+DQI01079,RPT0081,2025-08-23,Missing Data,Medium,Client Database,A006,55,Open,Source System
+DQI01080,RPT0065,2026-02-16,Delayed Data,Medium,Risk System,A002,99,Open,Data Entry
+DQI01081,RPT0103,2024-12-16,Incorrect Values,High,CRM,A019,41,Under Investigation,Unknown
+DQI01082,RPT0017,2025-01-26,Missing Data,Low,Core Banking,A007,110,Open,Source System
+DQI01083,RPT0090,2026-02-10,Incorrect Values,Medium,ERP,A020,3,Under Investigation,Database Issue
+DQI01084,RPT0052,2026-02-03,Missing Data,Medium,CRM,A019,58,Resolved,Unknown
+DQI01085,RPT0116,2025-12-22,Invalid Format,Medium,Core Banking,A020,116,Under Investigation,Transformation Logic
+DQI01086,RPT0079,2024-08-27,Delayed Data,Medium,CRM,A008,35,Resolved,Source System
+DQI01087,RPT0107,2025-04-10,Incorrect Values,Medium,HR System,A003,74,Resolved,Mapping Issue
+DQI01088,RPT0003,2025-07-12,Incorrect Values,Medium,HR System,A022,49,Resolved,Data Entry
+DQI01089,RPT0083,2026-01-15,Data Mismatch,Low,Risk System,A007,45,Under Investigation,Source System
+DQI01090,RPT0083,2024-11-06,Data Mismatch,Low,HR System,A005,47,Resolved,Database Issue
+DQI01091,RPT0032,2026-01-16,Invalid Format,Low,Risk System,A018,70,Open,Source System
+DQI01092,RPT0028,2025-09-28,Delayed Data,High,Data Warehouse,A016,9,Open,Database Issue
+DQI01093,RPT0113,2025-03-17,Null Values,Medium,Data Warehouse,A016,48,Open,Transformation Logic
+DQI01094,RPT0114,2025-12-16,Incorrect Values,High,Core Banking,A008,11,Open,Unknown
+DQI01095,RPT0026,2025-12-03,Data Mismatch,Medium,Client Database,A005,38,Open,Source System
+DQI01096,RPT0059,2026-02-15,Duplicate Records,Medium,Client Database,A002,9,Under Investigation,Source System
+DQI01097,RPT0110,2024-12-04,Delayed Data,Low,CRM,A004,13,Resolved,Transformation Logic
+DQI01098,RPT0001,2025-07-11,Null Values,Medium,Client Database,A005,112,Resolved,Data Entry
+DQI01099,RPT0052,2026-05-27,Null Values,High,CRM,A020,100,Under Investigation,Database Issue
+DQI01100,RPT0063,2026-07-18,Data Mismatch,Low,HR System,A017,46,Under Investigation,Data Entry
+DQI01101,RPT0011,2024-11-09,Data Mismatch,Low,Client Database,A001,53,Open,Mapping Issue
+DQI01102,RPT0077,2025-09-21,Incorrect Values,Low,CRM,A009,116,Resolved,Database Issue
+DQI01103,RPT0115,2026-03-01,Invalid Format,Low,Data Warehouse,A023,92,Resolved,Mapping Issue
+DQI01104,RPT0089,2025-12-12,Duplicate Records,Critical,ERP,A015,18,Under Investigation,Mapping Issue
+DQI01105,RPT0044,2024-11-19,Missing Data,Low,Core Banking,A025,4,Under Investigation,Source System
+DQI01106,RPT0096,2025-03-27,Data Mismatch,Low,Risk System,A006,4,Under Investigation,Unknown
+DQI01107,RPT0046,2024-11-16,Null Values,Low,HR System,A011,54,Under Investigation,Transformation Logic
+DQI01108,RPT0076,2026-04-21,Invalid Format,High,Core Banking,A013,69,Under Investigation,Database Issue
+DQI01109,RPT0080,2024-11-10,Incorrect Values,High,Client Database,A007,113,Resolved,Unknown
+DQI01110,RPT0025,2025-09-10,Incorrect Values,Medium,Client Database,A003,47,Under Investigation,Source System
+DQI01111,RPT0072,2025-01-21,Delayed Data,Low,Data Warehouse,A014,39,Resolved,Unknown
+DQI01112,RPT0094,2025-12-06,Incorrect Values,Low,HR System,A008,30,Under Investigation,Unknown
+DQI01113,RPT0099,2025-01-22,Duplicate Records,High,HR System,A021,50,Resolved,Database Issue
+DQI01114,RPT0043,2026-04-16,Missing Data,Critical,Data Warehouse,A011,67,Resolved,Unknown
+DQI01115,RPT0051,2025-03-12,Incorrect Values,Medium,Risk System,A007,58,Resolved,Database Issue
+DQI01116,RPT0024,2026-05-27,Invalid Format,Medium,HR System,A019,34,Resolved,Source System
+DQI01117,RPT0083,2025-09-30,Delayed Data,Low,Data Warehouse,A018,23,Open,Transformation Logic
+DQI01118,RPT0093,2025-01-23,Incorrect Values,High,HR System,A003,53,Open,Source System
+DQI01119,RPT0097,2025-05-25,Duplicate Records,High,Risk System,A014,16,Open,Mapping Issue
+DQI01120,RPT0120,2026-02-17,Null Values,Medium,Client Database,A014,68,Resolved,Source System
+DQI01121,RPT0041,2025-07-04,Data Mismatch,Low,Client Database,A020,113,Open,Database Issue
+DQI01122,RPT0017,2025-04-06,Invalid Format,Medium,HR System,A012,41,Open,Data Entry
+DQI01123,RPT0028,2024-12-22,Null Values,Medium,Client Database,A011,75,Open,Unknown
+DQI01124,RPT0085,2024-09-19,Missing Data,Medium,Core Banking,A024,82,Open,Unknown
+DQI01125,RPT0113,2025-10-19,Invalid Format,Low,Client Database,A018,31,Open,Transformation Logic
+DQI01126,RPT0033,2025-09-09,Duplicate Records,Medium,Data Warehouse,A013,97,Under Investigation,Source System
+DQI01127,RPT0078,2026-07-28,Incorrect Values,Medium,Client Database,A013,39,Resolved,Transformation Logic
+DQI01128,RPT0043,2025-01-28,Data Mismatch,Medium,ERP,A006,103,Under Investigation,Database Issue
+DQI01129,RPT0010,2026-02-05,Duplicate Records,Medium,Core Banking,A022,112,Resolved,Source System
+DQI01130,RPT0077,2026-08-14,Data Mismatch,Medium,Risk System,A004,116,Under Investigation,Source System
+DQI01131,RPT0090,2025-08-28,Invalid Format,High,Data Warehouse,A017,69,Open,Source System
+DQI01132,RPT0091,2025-05-03,Missing Data,Low,Risk System,A021,67,Resolved,Transformation Logic
+DQI01133,RPT0041,2025-02-18,Incorrect Values,High,CRM,A006,105,Under Investigation,Database Issue
+DQI01134,RPT0033,2024-08-22,Invalid Format,Low,Core Banking,A009,97,Resolved,Database Issue
+DQI01135,RPT0072,2024-08-29,Null Values,Low,Client Database,A004,65,Open,Unknown
+DQI01136,RPT0019,2026-01-23,Invalid Format,Medium,Core Banking,A001,41,Open,Data Entry
+DQI01137,RPT0006,2024-10-28,Null Values,Low,Risk System,A007,19,Under Investigation,Data Entry
+DQI01138,RPT0092,2026-07-25,Missing Data,High,Risk System,A002,85,Open,Database Issue
+DQI01139,RPT0043,2024-11-13,Data Mismatch,Medium,Core Banking,A001,112,Resolved,Data Entry
+DQI01140,RPT0062,2026-05-30,Invalid Format,Low,Risk System,A021,42,Under Investigation,Mapping Issue
+DQI01141,RPT0051,2025-11-08,Invalid Format,Medium,Risk System,A015,30,Resolved,Transformation Logic
+DQI01142,RPT0024,2026-01-21,Missing Data,Critical,Core Banking,A016,36,Open,Source System
+DQI01143,RPT0012,2025-09-07,Null Values,Critical,Risk System,A014,108,Under Investigation,Transformation Logic
+DQI01144,RPT0054,2024-12-13,Incorrect Values,Low,HR System,A003,57,Under Investigation,Data Entry
+DQI01145,RPT0102,2024-10-28,Null Values,Medium,HR System,A006,103,Under Investigation,Data Entry
+DQI01146,RPT0070,2026-04-17,Data Mismatch,Medium,Core Banking,A003,40,Open,Database Issue
+DQI01147,RPT0047,2025-09-21,Data Mismatch,Low,HR System,A016,89,Open,Transformation Logic
+DQI01148,RPT0034,2024-10-17,Data Mismatch,Low,Risk System,A013,10,Resolved,Source System
+DQI01149,RPT0012,2026-03-05,Incorrect Values,Medium,Client Database,A013,100,Open,Source System
+DQI01150,RPT0106,2026-03-05,Missing Data,High,HR System,A019,9,Resolved,Data Entry
+DQI01151,RPT0026,2024-11-06,Delayed Data,Medium,Risk System,A022,103,Open,Database Issue
+DQI01152,RPT0017,2026-07-23,Data Mismatch,Medium,Data Warehouse,A017,108,Resolved,Unknown
+DQI01153,RPT0062,2025-03-06,Delayed Data,High,Data Warehouse,A013,62,Open,Data Entry
+DQI01154,RPT0061,2026-01-02,Duplicate Records,Low,Risk System,A004,40,Open,Data Entry
+DQI01155,RPT0035,2025-02-15,Duplicate Records,Low,HR System,A001,59,Resolved,Database Issue
+DQI01156,RPT0105,2025-08-09,Duplicate Records,Medium,Core Banking,A021,55,Open,Data Entry
+DQI01157,RPT0086,2025-04-06,Duplicate Records,Low,Data Warehouse,A016,118,Open,Mapping Issue
+DQI01158,RPT0033,2025-03-13,Incorrect Values,Low,Core Banking,A022,99,Open,Source System
+DQI01159,RPT0082,2025-08-15,Incorrect Values,Low,Client Database,A025,76,Under Investigation,Transformation Logic
+DQI01160,RPT0046,2024-09-27,Incorrect Values,Medium,Core Banking,A008,81,Open,Unknown
+DQI01161,RPT0088,2024-11-05,Duplicate Records,Low,CRM,A019,25,Open,Mapping Issue
+DQI01162,RPT0034,2026-05-13,Incorrect Values,Low,Data Warehouse,A013,115,Open,Database Issue
+DQI01163,RPT0079,2025-01-02,Invalid Format,High,HR System,A025,27,Under Investigation,Source System
+DQI01164,RPT0084,2026-06-29,Delayed Data,Low,Data Warehouse,A013,95,Under Investigation,Database Issue
+DQI01165,RPT0035,2024-09-19,Data Mismatch,Low,Risk System,A008,9,Under Investigation,Database Issue
+DQI01166,RPT0111,2026-06-12,Invalid Format,Low,Risk System,A017,20,Open,Source System
+DQI01167,RPT0089,2025-04-02,Incorrect Values,High,Client Database,A008,100,Open,Unknown
+DQI01168,RPT0029,2025-05-26,Null Values,Critical,CRM,A005,36,Under Investigation,Database Issue
+DQI01169,RPT0092,2026-05-04,Data Mismatch,Medium,ERP,A018,117,Open,Data Entry
+DQI01170,RPT0103,2026-01-27,Null Values,Low,Core Banking,A002,24,Resolved,Database Issue
+DQI01171,RPT0105,2025-04-19,Null Values,High,Client Database,A025,35,Resolved,Data Entry
+DQI01172,RPT0050,2025-07-16,Delayed Data,Medium,HR System,A024,69,Under Investigation,Database Issue
+DQI01173,RPT0080,2026-03-16,Delayed Data,Medium,CRM,A018,83,Under Investigation,Mapping Issue
+DQI01174,RPT0085,2024-11-18,Null Values,Medium,ERP,A016,34,Resolved,Data Entry
+DQI01175,RPT0015,2024-11-01,Data Mismatch,Medium,Core Banking,A015,15,Under Investigation,Mapping Issue
+DQI01176,RPT0011,2026-06-12,Null Values,Low,Core Banking,A014,70,Resolved,Mapping Issue
+DQI01177,RPT0028,2026-03-31,Invalid Format,Low,Data Warehouse,A016,64,Resolved,Transformation Logic
+DQI01178,RPT0026,2026-07-12,Invalid Format,Medium,CRM,A010,65,Resolved,Unknown
+DQI01179,RPT0010,2024-09-24,Duplicate Records,Medium,Client Database,A023,117,Resolved,Mapping Issue
+DQI01180,RPT0092,2024-08-27,Null Values,Medium,CRM,A014,101,Resolved,Data Entry
+DQI01181,RPT0080,2026-06-12,Invalid Format,Medium,HR System,A018,52,Under Investigation,Unknown
+DQI01182,RPT0062,2024-12-05,Invalid Format,Medium,Data Warehouse,A006,57,Under Investigation,Source System
+DQI01183,RPT0060,2026-01-17,Duplicate Records,Medium,Client Database,A021,41,Under Investigation,Transformation Logic
+DQI01184,RPT0084,2026-01-04,Data Mismatch,Low,Client Database,A014,53,Open,Source System
+DQI01185,RPT0051,2024-12-30,Data Mismatch,Critical,Risk System,A015,15,Resolved,Unknown
+DQI01186,RPT0046,2025-05-02,Invalid Format,Low,Data Warehouse,A020,75,Resolved,Data Entry
+DQI01187,RPT0023,2025-05-24,Incorrect Values,Medium,ERP,A011,90,Resolved,Database Issue
+DQI01188,RPT0080,2026-07-15,Missing Data,Medium,ERP,A010,102,Resolved,Transformation Logic
+DQI01189,RPT0044,2025-07-25,Duplicate Records,High,Core Banking,A005,34,Open,Mapping Issue
+DQI01190,RPT0013,2025-12-15,Null Values,High,CRM,A012,98,Open,Database Issue
+DQI01191,RPT0009,2025-03-16,Null Values,Critical,Client Database,A004,25,Under Investigation,Data Entry
+DQI01192,RPT0078,2026-07-03,Missing Data,Low,CRM,A015,102,Resolved,Mapping Issue
+DQI01193,RPT0086,2026-03-12,Invalid Format,Medium,Client Database,A007,56,Resolved,Transformation Logic
+DQI01194,RPT0116,2024-10-31,Null Values,Low,Risk System,A010,52,Open,Transformation Logic
+DQI01195,RPT0114,2025-06-05,Duplicate Records,Medium,Core Banking,A006,53,Open,Data Entry
+DQI01196,RPT0047,2026-05-15,Null Values,Critical,ERP,A008,30,Under Investigation,Unknown
+DQI01197,RPT0094,2025-05-13,Duplicate Records,Medium,CRM,A002,106,Resolved,Transformation Logic
+DQI01198,RPT0052,2025-01-09,Incorrect Values,Low,Data Warehouse,A011,91,Under Investigation,Source System
+DQI01199,RPT0078,2024-11-16,Delayed Data,Low,Core Banking,A019,87,Open,Mapping Issue
+DQI01200,RPT0104,2025-06-27,Missing Data,Low,Data Warehouse,A001,91,Open,Mapping Issue
